@@ -1,0 +1,18 @@
+diff --git a/node_modules/express/lib/router/layer.js b/node_modules/express/lib/router/layer.js
+index 4dc8e86..5b48fa7 100644
+--- a/node_modules/express/lib/router/layer.js
++++ b/node_modules/express/lib/router/layer.js
+@@ -171,11 +171,7 @@ function decode_param(val) {
+   try {
+     return decodeURIComponent(val);
+   } catch (err) {
+-    if (err instanceof URIError) {
+-      err.message = 'Failed to decode param \'' + val + '\'';
+-      err.status = err.statusCode = 400;
+-    }
+-
+-    throw err;
++    // Avoid crashing on malformed paths (e.g. /%c0, /%c0/ from bots/scanners)
++    return val;
+   }
+ }
