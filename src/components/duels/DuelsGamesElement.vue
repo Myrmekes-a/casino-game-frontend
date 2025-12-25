@@ -161,7 +161,7 @@
     }
 
     button.duels-games-element .box-value  {
-        font-size: 10px;
+        font-size: 11px;
         font-weight: 600;
         color: #bbbfd0;
     }

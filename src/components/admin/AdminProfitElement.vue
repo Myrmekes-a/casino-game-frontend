@@ -99,7 +99,7 @@
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        padding: 25px 0;
+        padding: 24px 0;
     }
 
     .admin-profit-element .element-content.fade-enter-active {

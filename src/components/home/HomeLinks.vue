@@ -309,7 +309,7 @@
         }
 
         .home-links .links-games::before {
-            width: calc(100% - 86px);
+            width: calc(100% - 87px);
             background: #0c324e;
         }
 

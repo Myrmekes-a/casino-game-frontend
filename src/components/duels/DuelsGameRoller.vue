@@ -305,7 +305,7 @@
         top: 15px;
         bottom: 1px;
         left: 0;
-        border-radius: 10px;
+        border-radius: 9px;
         font-size: 24px;
         font-weight: 800;
         color: #ffffff;
