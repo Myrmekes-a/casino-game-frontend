@@ -189,7 +189,7 @@
     .bets .head-multiplier {
         width: 10%;
         font-weight: 700;
-        font-size: 14px;
+        font-size: 15px;
         color: #8bacc8;
     }
 

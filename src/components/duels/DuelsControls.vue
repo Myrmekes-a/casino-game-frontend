@@ -108,7 +108,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 12px 25px;
+        padding: 11px 25px;
         border-radius: 10px;
         background-color: #011828;
         border: 1px solid #0c304c;

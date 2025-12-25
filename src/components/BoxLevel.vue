@@ -27,7 +27,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, rgba(6, 36, 61, 0) 0%, #9e9e9e 100%);
-        clip-path: polygon(5px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 5px 100%, 0 75%, 0 25%);
+        clip-path: polygon(6px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 5px 100%, 0 75%, 0 25%);
     }
 
     .box-level.level-blue::before {
