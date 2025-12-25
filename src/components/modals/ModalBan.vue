@@ -141,7 +141,7 @@
 
     .modal-ban .ban-title {
         text-align: center;
-        font-size: 32px;
+        font-size: 33px;
         font-weight: 900;
     }
 

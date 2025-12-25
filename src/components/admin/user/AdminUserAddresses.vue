@@ -76,7 +76,7 @@
         width: 100%;
         display: flex;
         align-items: center;
-        padding: 0 30px 20px 20px;
+        padding: 0 30px 20px 21px;
         border-bottom: 1px solid rgba(24, 72, 109, 0.5);
     }
 

@@ -40,7 +40,7 @@
         height: 149px;
         width: calc(25% - 18px);
         position: relative;
-        margin-top: 25px;
+        margin-top: 24px;
         margin-right: 24px;
         padding: 1px;
         /* font-family: 'Rubik'; */

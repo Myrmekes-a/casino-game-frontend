@@ -103,7 +103,7 @@
   }
 
   .admin-filter-type.type-open .type-menu {
-      height: 99px;
+      height: 100px;
   }
 
   .admin-filter-type .menu-inner {
