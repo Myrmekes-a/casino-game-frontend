@@ -7,3 +7,5 @@
 ## [2025-12-25] Setup Vue Router configuration
 
 ## [2025-12-25] Initialize Vuex store modules
+
+## [2025-12-25] Add base layout components

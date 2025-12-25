@@ -157,7 +157,7 @@
         font-size: 13px;
         font-weight: 800;
         background: linear-gradient(90deg, rgba(0, 0, 0, 0.13) -90%, rgba(0, 33, 24, 0.15) -40%, rgba(0, 99, 73, 0.15) 230%, rgba(1, 193, 143, 0.1) 65%, rgba(1, 237, 176, 0.06) 100%), #0d262c;
-        clip-path: polygon(5px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 5px 100%, 0 75%, 0 25%);
+        clip-path: polygon(5px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 4px 100%, 0 75%, 0 25%);
     }
 
     .banner-rain .text-header button.button-tip .button-inner svg {
