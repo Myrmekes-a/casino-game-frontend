@@ -154,7 +154,7 @@
 
         .modal-reset {
             width: calc(100vw - 20px);
-            padding: 35px 10px 48px 9px;
+            padding: 35px 9px 48px 9px;
         }
 
     }

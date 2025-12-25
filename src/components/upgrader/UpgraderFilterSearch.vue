@@ -64,7 +64,7 @@
         color: #ffffff;
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), 
                     linear-gradient(223deg, rgba(5, 29, 48, 0.35) 0%, rgba(31, 99, 153, 0.05) 50%, rgba(5, 29, 48, 0.35) 100%), #041e31;
-        clip-path: polygon(9px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 9px 100%, 0 75%, 0 25%);
+        clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 9px 100%, 0 75%, 0 25%);
     }
 
     .upgrader-filter-search input::placeholder {

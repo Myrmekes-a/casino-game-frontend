@@ -83,7 +83,7 @@
   }
 
   .admin-filter-type button.button-toggle .button-value {
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 600;
       color: #49687d;
   }

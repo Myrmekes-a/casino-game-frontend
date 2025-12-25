@@ -21,3 +21,5 @@
 ## [2025-12-25] Implement slot machine component
 
 ## [2025-12-25] Add betting panel component
+
+## [2025-12-25] Implement game history table
