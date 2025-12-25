@@ -207,7 +207,7 @@
         top: 0;
         left: 0;
         background: #0f3759;
-        clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
+        clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 8px 100%, 0 75%, 0 25%);
     }
 
     .battles-header-game a.link-back .link-inner {

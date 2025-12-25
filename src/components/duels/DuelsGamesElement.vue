@@ -99,7 +99,7 @@
         justify-content: space-between;
         margin-right: 20px;
         margin-top: 20px;
-        border-radius: 15px;
+        border-radius: 14px;
         background: radial-gradient(285% 150% at 50% 50%, #001323 0%, #000e1a 100%);
         box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.15);
         transition: transform 0.3s ease;

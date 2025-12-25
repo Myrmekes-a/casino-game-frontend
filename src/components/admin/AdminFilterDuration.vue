@@ -113,7 +113,7 @@
 
   .admin-filter-duration .menu-inner button {
       width: 100%;
-      height: 47px;
+      height: 46px;
       display: flex;
       align-items: center;
       padding: 0 14px;
