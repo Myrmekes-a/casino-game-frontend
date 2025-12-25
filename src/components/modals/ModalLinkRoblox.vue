@@ -287,7 +287,7 @@
         justify-content: center;
         font-size: 18px;
         font-weight: 800;
-        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 11px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 12px) 100%, 11px 100%, 0 75%, 0 25%);
     }
 
     .modal-link-roblox button.button-toggle .button-inner {

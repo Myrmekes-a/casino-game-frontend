@@ -189,7 +189,7 @@
     .modals .body-modal {
         position: relative;
         border-radius: 16px;
-        box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.25);
+        box-shadow: 0px 5px 17px rgba(0, 0, 0, 0.25);
     }
 
     .modals .body-modal button.button-close {
