@@ -149,7 +149,7 @@
     @media only screen and (max-width: 1200px) {
 
         .unbox-box-element {
-            width: calc(16.66% - 7.5px);
+            width: calc(16.66% - 7.6px);
         }
 
         .unbox-box-element:nth-child(7n) {
