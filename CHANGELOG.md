@@ -17,3 +17,5 @@
 ## [2025-12-25] Setup Axios API service layer
 
 ## [2025-12-25] Add casino lobby page layout
+
+## [2025-12-25] Implement slot machine component

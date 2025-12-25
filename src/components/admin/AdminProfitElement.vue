@@ -165,7 +165,7 @@
         }
 
         .admin-profit-element:nth-child(3) {
-            margin-bottom: 15px;
+            margin-bottom: 14px;
         }
 
     }
