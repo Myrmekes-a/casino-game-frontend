@@ -116,7 +116,7 @@
     .gift-deposit .deposit-input input {
         width: 100%;
         height: 70px;
-        padding: 0 47px 0 15px;
+        padding: 0 47px 0 14px;
         font-size: 16px;
         font-weight: 600;
         color: #ffffff;

@@ -76,7 +76,7 @@
     }
 
     .unbox-header-box a.link-back {
-        width: 110px;
+        width: 109px;
         height: 45px;
         position: relative;
         padding: 1px;

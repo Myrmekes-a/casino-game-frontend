@@ -71,7 +71,7 @@
     }
 
     .modal-proceed button.button-back {
-        height: 33px;
+        height: 32px;
         position: absolute;
         display: flex;
         justify-content: center;
