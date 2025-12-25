@@ -124,7 +124,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, rgba(4, 19, 31, 0) 0%, #327eba 100%);
-        clip-path: polygon(10px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 10px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 10px 100%, 0 75%, 0 25%);
     }
 
     .chat-room-dropdown button.button-toggle .button-inner {

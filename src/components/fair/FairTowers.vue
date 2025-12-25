@@ -104,7 +104,7 @@ fairGetTowersOutcome();
         height: 225px;
         margin-top: 25px;
         padding: 16px 4px 16px 15px;
-        border-radius: 8px;
+        border-radius: 9px;
         background: #071f2e;
     }
 

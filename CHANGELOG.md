@@ -25,3 +25,5 @@
 ## [2025-12-25] Implement game history table
 
 ## [2025-12-25] Add user balance display widget
+
+## [2025-12-25] Implement responsive top navigation
