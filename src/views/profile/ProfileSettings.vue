@@ -270,7 +270,7 @@
         justify-content: center;
         align-items: center;
         padding: 0 15px;
-        font-size: 12px;
+        font-size: 13px;
         font-weight: 600;
         color: #ffffff;
         background: #214059;

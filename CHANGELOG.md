@@ -11,3 +11,5 @@
 ## [2025-12-25] Add base layout components
 
 ## [2025-12-25] Implement main app shell
+
+## [2025-12-25] Add authentication views scaffold

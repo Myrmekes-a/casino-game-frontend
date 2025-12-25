@@ -181,7 +181,7 @@
     .blackjack-controls-action .action-timer {
         display: flex;
         margin-top: 3px;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 600;
         color: #ffffff;
         text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
