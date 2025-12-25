@@ -138,7 +138,7 @@
         width: calc(100% - 18px);
         height: 0;
         position: absolute;
-        top: 51px;
+        top: 52px;
         left: 9px;
         overflow: hidden;
         transition: height 0.2s ease;

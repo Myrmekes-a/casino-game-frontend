@@ -9,3 +9,5 @@
 ## [2025-12-25] Initialize Vuex store modules
 
 ## [2025-12-25] Add base layout components
+
+## [2025-12-25] Implement main app shell
