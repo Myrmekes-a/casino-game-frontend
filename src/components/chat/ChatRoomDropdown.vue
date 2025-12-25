@@ -113,7 +113,7 @@
         height: 53px;
         position: relative;
         padding: 1px;
-        filter: drop-shadow(0px 4px 25px rgba(30, 63, 90, 0.35));
+        filter: drop-shadow(0px 4px 26px rgba(30, 63, 90, 0.35));
     }
 
     .chat-room-dropdown button.button-toggle::before {

@@ -72,7 +72,7 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-color: #031d32;
-        clip-path: polygon(25px 0, calc(100% - 25px) 0, 100% 25%, 100% 75%, calc(100% - 25px) 100%, 25px 100%, 0 75%, 0 25%);
+        clip-path: polygon(25px 0, calc(100% - 25px) 0, 100% 25%, 100% 75%, calc(100% - 25px) 100%, 26px 100%, 0 75%, 0 25%);
     }
 
     a.blackjack-tables-element .element-inner {

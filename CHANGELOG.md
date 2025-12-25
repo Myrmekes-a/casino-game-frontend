@@ -13,3 +13,5 @@
 ## [2025-12-25] Implement main app shell
 
 ## [2025-12-25] Add authentication views scaffold
+
+## [2025-12-25] Setup Axios API service layer

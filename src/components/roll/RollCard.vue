@@ -180,7 +180,7 @@
         top: 0;
         left: 0;
         background-color: #10283a;
-        clip-path: polygon(18px 0, calc(100% - 18px) 0, 100% 10%, 100% 90%, calc(100% - 18px) 100%, 18px 100%, 0 90%, 0 10%);
+        clip-path: polygon(18px 0, calc(100% - 17px) 0, 100% 10%, 100% 90%, calc(100% - 18px) 100%, 18px 100%, 0 90%, 0 10%);
     }
 
     .roll-card.card-high::before {
