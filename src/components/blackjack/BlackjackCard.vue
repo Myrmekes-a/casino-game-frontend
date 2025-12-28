@@ -31,7 +31,7 @@
     .left-cards .blackjack-card,
     .right-cards .blackjack-card {
         width: 53px;
-        height: 74px;
+        height: 73px;
     }
 
     .game-dealer .blackjack-card {

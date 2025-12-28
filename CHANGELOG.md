@@ -43,3 +43,5 @@
 ## [2025-12-28] Add game loading overlay
 
 ## [2025-12-28] Implement user profile page
+
+## [2025-12-28] Add toast notification system

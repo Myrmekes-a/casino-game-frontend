@@ -74,7 +74,7 @@
     .upgrader-item-element.element-selected .element-inner {
         background: radial-gradient(80% 80% at 50.00% 50.00%, rgb(46, 202, 146, 0.2) 0%, rgba(0, 0, 0, 0.00) 100%), 
                     linear-gradient(223deg, rgba(5, 29, 48, 0.35) 0%, rgba(31, 99, 153, 0.09) 50%, rgba(5, 29, 48, 0.35) 100%),
-                    repeating-linear-gradient(-55deg, transparent, transparent 5px, rgba(2, 21, 36, 0.25) 5px, rgba(2, 21, 36, 0.25) 10px), #042037;
+                    repeating-linear-gradient(-55deg, transparent, transparent 4px, rgba(2, 21, 36, 0.25) 5px, rgba(2, 21, 36, 0.25) 10px), #042037;
     }
 
     .upgrader-item-element .inner-name {

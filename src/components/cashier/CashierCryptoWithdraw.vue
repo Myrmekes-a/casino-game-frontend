@@ -375,7 +375,7 @@
         justify-content: center;
         align-items: center;
         background: linear-gradient(250deg, #00ffc2 0%, #00aa6d 100%);
-        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 11px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 11px 100%, 0 75%, 0 25%);
     }
 
     .cashier-crypto-withdraw button.button-withdraw .inner-content {
