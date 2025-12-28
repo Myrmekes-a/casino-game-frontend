@@ -97,7 +97,7 @@
         position: relative;
         margin-right: 39px;
         padding-bottom: 23px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 700;
         font-family: knight!important;
         color: #bbbfd0;
