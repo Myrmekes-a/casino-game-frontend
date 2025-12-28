@@ -41,3 +41,5 @@
 ## [2025-12-28] Implement withdrawal request form
 
 ## [2025-12-28] Add game loading overlay
+
+## [2025-12-28] Implement user profile page

@@ -107,7 +107,7 @@
     }
 
     .navbar-home-dropdown button.button-toggle {
-        width: 141px;
+        width: 140px;
         height: 50px;
         position: relative;
         padding: 1px;

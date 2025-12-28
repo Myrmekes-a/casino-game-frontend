@@ -122,7 +122,7 @@
 
     .profile-games .games-content {
         width: 100%;
-        margin-top: 15px;
+        margin-top: 14px;
         padding-bottom: 25px;
         border-bottom: 1px solid rgba(24, 72, 109, 0.5);
     }
