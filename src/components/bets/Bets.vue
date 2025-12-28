@@ -154,7 +154,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0 35px;
+        padding: 0 34px;
         background-color: #082842;
    }
 

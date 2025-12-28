@@ -132,7 +132,7 @@
     .battles-item-element .inner-price {
         display: flex;
         align-items: center;
-        margin-top: 10px;
+        margin-top: 11px;
     }
 
     .battles-item-element .inner-price img {
