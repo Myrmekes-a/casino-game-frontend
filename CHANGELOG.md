@@ -27,3 +27,5 @@
 ## [2025-12-25] Add user balance display widget
 
 ## [2025-12-25] Implement responsive top navigation
+
+## [2025-12-28] Add slot reel spin animations

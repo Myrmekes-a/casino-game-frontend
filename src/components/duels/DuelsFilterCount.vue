@@ -108,7 +108,7 @@
 
     .duels-filter-count.count-open .count-menu {
        height: 400px;
-       padding: 0 10px 10px 10px;
+       padding: 0 9px 10px 10px;
     }
 
     .duels-filter-count .menu-inner {

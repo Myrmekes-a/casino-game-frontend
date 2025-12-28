@@ -226,7 +226,7 @@
 
     .rewards-rakeback button.button-claim {
         width: 86px;
-        height: 42px;
+        height: 43px;
         margin-right: 14px;
         transition: all .2s;
     }

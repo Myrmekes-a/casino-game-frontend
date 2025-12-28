@@ -187,7 +187,7 @@
 
         .modal-admin-user .user-nav button.button-nav {
             width: calc(50% - 5px);
-            margin-top: 10px;
+            margin-top: 9px;
             margin-right: 10px;
         }
 
