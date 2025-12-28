@@ -100,7 +100,7 @@
         width: 48px;
         height: 44px;
         position: relative;
-        margin-right: 6px;
+        margin-right: 5px;
         padding: 1px;
         filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.15));
         z-index: 1;

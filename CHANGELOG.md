@@ -47,3 +47,5 @@
 ## [2025-12-28] Add toast notification system
 
 ## [2025-12-28] Implement live chat widget
+
+## [2025-12-28] Add bonus display component

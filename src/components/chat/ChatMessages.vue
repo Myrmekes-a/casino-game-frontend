@@ -219,7 +219,7 @@
 
     aside#chat .content-lock {
         position: absolute;
-        bottom: 12px;
+        bottom: 11px;
         left: 50%;
         transform: translate(-50%, 0);
     }
