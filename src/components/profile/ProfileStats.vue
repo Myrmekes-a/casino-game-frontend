@@ -105,7 +105,7 @@
 
     .profile-stats .element-amount {
         width: 100%;
-        height: 70px;
+        height: 69px;
         position: relative;
         margin-top: 12px;
         padding: 1px;

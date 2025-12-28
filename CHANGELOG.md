@@ -39,3 +39,5 @@
 ## [2025-12-28] Add deposit flow UI screens
 
 ## [2025-12-28] Implement withdrawal request form
+
+## [2025-12-28] Add game loading overlay

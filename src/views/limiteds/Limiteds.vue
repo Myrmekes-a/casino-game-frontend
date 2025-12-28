@@ -97,7 +97,7 @@
         display: grid;
         grid-template-columns: 218px auto 409px;
         align-items: center;
-        padding-bottom: 25px;
+        padding-bottom: 24px;
         border-bottom: 1px solid rgba(24, 72, 109, 0.5);
     }
 
