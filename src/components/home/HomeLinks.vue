@@ -270,7 +270,7 @@
         }
 
         .home-links .links-games {
-            padding: 40px 15px;
+            padding: 40px 14px;
         }
 
         .home-links .links-bottom {

@@ -244,7 +244,7 @@
     @media only screen and (max-width: 500px) {
 
         .modal-claim {
-            padding: 65px 10px 30px 10px;
+            padding: 65px 9px 30px 10px;
         }
 
     }

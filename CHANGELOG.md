@@ -53,3 +53,5 @@
 ## [2025-12-28] Implement tournament leaderboard
 
 ## [2025-12-28] Add jackpot ticker component
+
+## [2025-12-28] Fix responsive layout on small screens
