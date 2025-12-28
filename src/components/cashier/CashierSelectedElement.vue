@@ -118,7 +118,7 @@
     }
 
     .cashier-selected-element .amount-value span {
-        font-size: 13px;
+        font-size: 14px;
         font-weight: 800;
         color: #ffffff;
     }

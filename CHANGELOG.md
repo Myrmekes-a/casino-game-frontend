@@ -51,3 +51,5 @@
 ## [2025-12-28] Add bonus display component
 
 ## [2025-12-28] Implement tournament leaderboard
+
+## [2025-12-28] Add jackpot ticker component

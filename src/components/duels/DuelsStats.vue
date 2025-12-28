@@ -210,7 +210,7 @@
         }
 
         .duels-stats .stats-animation {
-            margin-top: 21px;
+            margin-top: 22px;
         }
 
     }
