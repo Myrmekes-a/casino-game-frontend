@@ -156,7 +156,7 @@
     }
 
     .modal-box .text-name {
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 700;
         color: #5e768e;
     }

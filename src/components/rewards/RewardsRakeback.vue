@@ -208,7 +208,7 @@
 
     .rewards-rakeback .inner-bar {
         width: 280px;
-        height: 5px;
+        height: 6px;
         border-radius: 2px;
         background: rgba(253, 168, 14, 0.05);
     }

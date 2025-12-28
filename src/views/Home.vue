@@ -129,7 +129,7 @@
     .home .featured-title,
     .home .games-title {
         width: 205px;
-        height: 43px;
+        height: 44px;
         position: absolute;
         display: flex;
         justify-content: center;

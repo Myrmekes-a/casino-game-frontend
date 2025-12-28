@@ -63,7 +63,7 @@ fairGetBattlesOutcome();
     }
 
     .fair-battles .battles-text {
-        margin-top: 11px;
+        margin-top: 10px;
         -ms-word-break: break-all;
         word-break: break-all;
         word-break: break-word;

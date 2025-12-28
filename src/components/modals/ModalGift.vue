@@ -74,7 +74,7 @@
         justify-content: center;
         align-items: center;
         padding: 0 12px;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 800;
         color: #75adc2;
         background-color: #1a4f63;
