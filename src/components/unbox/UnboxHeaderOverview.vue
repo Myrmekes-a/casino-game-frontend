@@ -165,7 +165,7 @@
     .unbox-header-overview .overview-filter  {
         display: flex;
         align-items: flex-end;
-        padding-bottom: 16px;
+        padding-bottom: 17px;
     }
 
     @media only screen and (max-width: 1150px) {

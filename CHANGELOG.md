@@ -33,3 +33,5 @@
 ## [2025-12-28] Implement playing card components
 
 ## [2025-12-28] Add sound effects utility module
+
+## [2025-12-28] Implement wallet overview component
