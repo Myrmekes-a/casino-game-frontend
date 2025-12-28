@@ -37,3 +37,5 @@
 ## [2025-12-28] Implement wallet overview component
 
 ## [2025-12-28] Add deposit flow UI screens
+
+## [2025-12-28] Implement withdrawal request form

@@ -115,7 +115,7 @@
     .roll-bets .highest-content {
         width: 100%;
         height: 47px;
-        margin-top: 15px;
+        margin-top: 14px;
         border-radius: 5px;
         background-color: rgba(19, 66, 88, 0.25);
     }

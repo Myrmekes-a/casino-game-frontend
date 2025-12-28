@@ -113,7 +113,7 @@
         height: 81px;
         margin-top: 5px;
         padding: 8px 15px;
-        border-radius: 5px;
+        border-radius: 4px;
         background: rgba(19, 66, 88, 0.25);
         border: 1px solid rgba(20, 68, 104, 0.35);
         transition: background-color 0.3s ease;

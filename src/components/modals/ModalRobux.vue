@@ -328,7 +328,7 @@
         height: 48px;
         margin-top: 30px;
         filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35)), 
-                drop-shadow(0px 4px 25px rgba(1, 230, 169, 0.15));
+                drop-shadow(0px 4px 26px rgba(1, 230, 169, 0.15));
     }
 
     .modal-robux button.button-action .button-inner {
