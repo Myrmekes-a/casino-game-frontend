@@ -97,7 +97,7 @@
     }
 
     .modal-crypto button.button-back {
-        width: 46px;
+        width: 47px;
         height: 35px;
         margin-right: 15px;
     }
