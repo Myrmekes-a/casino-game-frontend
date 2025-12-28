@@ -125,7 +125,7 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        padding: 5px;
+        padding: 4px;
         border-radius: 5px;
         background: #ebe9e6;
         filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.15));

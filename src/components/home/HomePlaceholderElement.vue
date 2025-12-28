@@ -89,7 +89,7 @@
         width: 100%;
         height: 100%;
         background: rgba(4, 31, 52, 0.65);
-        clip-path: polygon(18px 0, calc(100% - 17px) 0, 100% 25%, 100% 75%, calc(100% - 18px) 100%, 18px 100%, 0 75%, 0 25%);
+        clip-path: polygon(17px 0, calc(100% - 17px) 0, 100% 25%, 100% 75%, calc(100% - 18px) 100%, 18px 100%, 0 75%, 0 25%);
     }
 
     .home-placeholder-element .inner-text {

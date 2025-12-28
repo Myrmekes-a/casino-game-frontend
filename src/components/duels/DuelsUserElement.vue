@@ -157,7 +157,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding-bottom: 7px;
+        padding-bottom: 6px;
         border-bottom: 1px solid #0c324e;
     }
 

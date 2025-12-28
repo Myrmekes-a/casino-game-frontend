@@ -29,3 +29,5 @@
 ## [2025-12-25] Implement responsive top navigation
 
 ## [2025-12-28] Add slot reel spin animations
+
+## [2025-12-28] Implement playing card components
