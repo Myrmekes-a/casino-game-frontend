@@ -180,7 +180,7 @@
     .leaderboard-banner .ranks-step {
         font-weight: 800;
         background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 100%), #ffffff;
-        filter: drop-shadow(0px 4px 25px rgba(0, 255, 194, 0.47));
+        filter: drop-shadow(0px 4px 26px rgba(0, 255, 194, 0.47));
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;

@@ -67,3 +67,5 @@
 ## [2025-12-30] Add smooth page transition animations
 
 ## [2025-12-30] Fix mobile sidebar navigation drawer
+
+## [2025-12-30] Implement global error boundary

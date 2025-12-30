@@ -459,7 +459,7 @@
         width: 100%;
         height: 63px;
         padding: 0 45px 0 25px;
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 600;
         color: #ffffff;
         background: transparent;
