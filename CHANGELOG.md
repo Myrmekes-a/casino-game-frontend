@@ -71,3 +71,5 @@
 ## [2025-12-30] Implement global error boundary
 
 ## [2025-12-30] Add Open Graph meta tags
+
+## [2025-12-30] Bump npm dependency versions

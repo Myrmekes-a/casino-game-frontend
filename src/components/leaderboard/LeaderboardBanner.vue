@@ -165,7 +165,7 @@
         align-items: center;
         top: 0px;
         left: 1px;
-        font-size: 32px;
+        font-size: 31px;
         font-weight: 900;
         color: #ffffff;
         background: radial-gradient(40.04% 81.75% at 24.49% 50.85%, rgba(3, 27, 45, 0.2) 0%, rgba(0, 0, 0, 0) 100%), #031b2f;

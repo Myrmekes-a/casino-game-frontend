@@ -288,7 +288,7 @@
    @media only screen and (max-width: 600px) {
 
        .bets .bets-nav button.nav-link {
-           margin-right: 15px;
+           margin-right: 14px;
            font-size: 12px;
        }
 

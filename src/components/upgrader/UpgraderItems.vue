@@ -68,7 +68,7 @@
     .upgrader-items {
         width: 1200px;
         margin-top: 35px;
-        padding-top: 20px;
+        padding-top: 21px;
         border-top: 1px solid rgba(41, 114, 169, 0.16);
     }
 

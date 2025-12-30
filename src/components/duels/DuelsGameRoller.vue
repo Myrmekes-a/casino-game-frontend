@@ -349,7 +349,7 @@
 
         .duels-game-roller .won-title,
         .duels-game-roller .lost-title {
-            font-size: 24px;
+            font-size: 25px;
         }
 
         .duels-game-roller .won-info {
