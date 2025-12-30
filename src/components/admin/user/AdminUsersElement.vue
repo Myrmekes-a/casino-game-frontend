@@ -119,7 +119,7 @@
     }
 
     .admin-users-element .content-avatar {
-        width: 26px;
+        width: 25px;
         height: 26px;
         display: flex;
         justify-content: center;

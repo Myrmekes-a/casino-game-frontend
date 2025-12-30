@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <button class="cashier-element" v-bind:class="[ 'element-' + method ]" v-bind:disabled="enabled !== true">
         <div class="element-inner">
             <div class="inner-background">
@@ -249,7 +249,7 @@
                     linear-gradient(0deg, rgba(20, 142, 255, 0.15) 0%, rgba(20, 142, 255, 0.15) 100%), 
                     linear-gradient(90deg, rgba(20, 142, 255, 0.62) -30%, rgba(0, 0, 0, 0) 180%), 
                     linear-gradient(265deg, #001626 0%, rgba(12, 52, 82, 0) 150%),
-                    repeating-linear-gradient(-55deg, transparent, transparent 5px, rgba(2, 21, 36, 0.12) 5px, rgba(2, 21, 36, 0.12) 10px);
+                    repeating-linear-gradient(-55deg, transparent, transparent 5px, rgba(2, 21, 36, 0.12) 6px, rgba(2, 21, 36, 0.12) 10px);
     }
 
     .cashier-element .inner-background {

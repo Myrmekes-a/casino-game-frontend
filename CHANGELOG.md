@@ -59,3 +59,5 @@
 ## [2025-12-30] Optimize Vue component rendering
 
 ## [2025-12-30] Add skeleton loading placeholders
+
+## [2025-12-30] Fix router guard edge cases

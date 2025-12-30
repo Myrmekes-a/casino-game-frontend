@@ -174,7 +174,7 @@
     @media only screen and (max-width: 550px) {
 
         button.gift-withdraw-element {
-            width: calc(50% - 5px);
+            width: calc(50% - 6px);
         }
 
         button.gift-withdraw-element:nth-child(3n) {
