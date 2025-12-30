@@ -60,7 +60,7 @@
 
 <style scoped>
     .battles-filter-mode {
-        width: 180px;
+        width: 179px;
         position: relative;
         z-index: 15;
     }

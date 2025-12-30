@@ -67,7 +67,7 @@
     .modal-limiteds button.cashier-filter-sort:before,
     .modal-gift button.cashier-filter-sort:before {
         background: rgba(13, 73, 84, 0.65);
-        clip-path: polygon(13px 0, calc(100% - 13px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 13px 100%, 0 75%, 0 25%);
+        clip-path: polygon(12px 0, calc(100% - 13px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 13px 100%, 0 75%, 0 25%);
     }
 
     button.cashier-filter-sort .button-inner {

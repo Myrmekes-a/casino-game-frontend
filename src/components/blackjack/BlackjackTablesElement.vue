@@ -24,7 +24,7 @@
 
 <style scoped>
     a.blackjack-tables-element {
-        width: calc(20% - 8px);
+        width: calc(20% - 9px);
         height: 150px;
         position: relative;
         margin-top: 10px;
