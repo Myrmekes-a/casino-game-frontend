@@ -81,3 +81,5 @@
 ## [2025-12-30] Add dark mode theme support
 
 ## [2025-12-30] Fix currency balance formatting
+
+## [2025-12-30] Add payment method icon set

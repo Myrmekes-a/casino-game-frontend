@@ -66,7 +66,7 @@
     .chat-emojis-dropdown button.button-toggle {
         display: flex;
         align-items: center;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 800;
     }
 

@@ -331,7 +331,7 @@
    @media only screen and (max-width: 793px) {
 
         .admin-user-settings {
-            padding: 0 21px;
+            padding: 0 20px;
         }
 
     }
