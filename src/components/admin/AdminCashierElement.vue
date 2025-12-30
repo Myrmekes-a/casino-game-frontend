@@ -224,7 +224,7 @@
     }
 
     .admin-cashier-element .element-section.section-option .section-content button svg {
-        margin-right: 8px;
+        margin-right: 7px;
         fill: #bbbfd0;
         transition: fill 0.3s ease;
     }

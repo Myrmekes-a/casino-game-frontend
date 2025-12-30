@@ -103,7 +103,7 @@ fairGetTowersOutcome();
         width: 100%;
         height: 225px;
         margin-top: 25px;
-        padding: 16px 4px 16px 15px;
+        padding: 17px 4px 16px 15px;
         border-radius: 9px;
         background: #071f2e;
     }

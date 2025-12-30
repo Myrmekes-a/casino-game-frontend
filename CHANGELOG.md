@@ -61,3 +61,5 @@
 ## [2025-12-30] Add skeleton loading placeholders
 
 ## [2025-12-30] Fix router guard edge cases
+
+## [2025-12-30] Update color palette and branding tokens
