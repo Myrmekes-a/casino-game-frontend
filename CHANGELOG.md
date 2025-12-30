@@ -73,3 +73,5 @@
 ## [2025-12-30] Add Open Graph meta tags
 
 ## [2025-12-30] Bump npm dependency versions
+
+## [2025-12-30] Fix slot machine reel animation timing

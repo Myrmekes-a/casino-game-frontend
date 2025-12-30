@@ -104,7 +104,7 @@
     }
 
     .battles-reel .element-info {
-        max-width: calc(100% - 115px);
+        max-width: calc(100% - 116px);
         display: flex;
         flex-direction: column;
         align-items: flex-start;
