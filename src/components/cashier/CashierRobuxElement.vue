@@ -177,7 +177,7 @@
         font-weight: 800;
         color: #ffffff;
         background: #f55046;
-        clip-path: polygon(6px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 6px 100%, 0 75%, 0 25%);
+        clip-path: polygon(6px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 6px 100%, 0 75%, 0 25%);
     }
 
     @media only screen and (max-width: 800px) {

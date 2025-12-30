@@ -98,7 +98,7 @@
     }
 
     .profile-filter-nav.nav-open .nav-menu {
-        height: 128px;
+        height: 129px;
     }
 
     .profile-filter-nav .menu-inner {

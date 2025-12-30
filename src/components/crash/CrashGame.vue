@@ -184,7 +184,7 @@ export default {
                 rgba(0, 0, 0, 0) 100%),
             rgba(112, 73, 197, 0.05);
         border: 1px solid rgba(20, 68, 104, 0.35);
-        box-shadow: inset 0px 0px 35px rgba(0, 0, 0, 0.65);
+        box-shadow: inset 0px 0px 36px rgba(0, 0, 0, 0.65);
     }
 
     .crash-game .game-graph {

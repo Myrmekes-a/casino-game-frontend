@@ -124,7 +124,7 @@
     }
 
     .modal-claim .header-icon img {
-        width: 48px;
+        width: 47px;
         height: 48px;
     }
 

@@ -77,3 +77,5 @@
 ## [2025-12-30] Fix slot machine reel animation timing
 
 ## [2025-12-30] Improve ARIA accessibility labels
+
+## [2025-12-30] Add dark mode theme support
