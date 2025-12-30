@@ -140,7 +140,7 @@
 
     .unbox-box .items-content {
         width: 100%;
-        margin-top: 24px;
+        margin-top: 23px;
     }
 
     .unbox-box .content-list {

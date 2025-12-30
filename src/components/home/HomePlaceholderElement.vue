@@ -41,7 +41,7 @@
         width: calc(25% - 18px);
         position: relative;
         margin-top: 24px;
-        margin-right: 24px;
+        margin-right: 23px;
         padding: 1px;
         /* font-family: 'Rubik'; */
     }

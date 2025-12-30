@@ -79,3 +79,5 @@
 ## [2025-12-30] Improve ARIA accessibility labels
 
 ## [2025-12-30] Add dark mode theme support
+
+## [2025-12-30] Fix currency balance formatting

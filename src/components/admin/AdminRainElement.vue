@@ -110,7 +110,7 @@
     .admin-rain-element .element-section.section-amount .section-content img {
         width: 19px;
         height: 18px;
-        margin-right: 10px;
+        margin-right: 9px;
     }
 
     .admin-rain-element .element-section.section-amount .content-value {
