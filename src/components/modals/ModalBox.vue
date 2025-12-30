@@ -174,7 +174,7 @@
     }
 
     .modal-box .amount-value {
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 600;
         color: #bbbfd0;
     }

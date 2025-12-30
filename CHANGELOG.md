@@ -63,3 +63,5 @@
 ## [2025-12-30] Fix router guard edge cases
 
 ## [2025-12-30] Update color palette and branding tokens
+
+## [2025-12-30] Add smooth page transition animations

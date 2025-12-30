@@ -113,7 +113,7 @@
         height: 41px;
         display: flex;
         align-items: center;
-        padding: 0 15px;
+        padding: 0 14px;
         border-radius: 5px;
         font-size: 14px;
         font-weight: 600;
