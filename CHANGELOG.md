@@ -55,3 +55,5 @@
 ## [2025-12-28] Add jackpot ticker component
 
 ## [2025-12-28] Fix responsive layout on small screens
+
+## [2025-12-30] Optimize Vue component rendering

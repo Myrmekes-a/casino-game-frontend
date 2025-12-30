@@ -60,7 +60,7 @@
         align-items: center;
         padding: 0 15px;
         background-color: #09263f;
-        clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 9px 100%, 0 75%, 0 25%);
+        clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
         transition: all .2s;
     }
     button.unbox-filter-sort .button-inner:hover {

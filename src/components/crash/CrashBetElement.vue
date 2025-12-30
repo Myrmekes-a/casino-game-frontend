@@ -70,7 +70,7 @@
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        margin-right: 7px;
+        margin-right: 6px;
         border-radius: 50%;
         border: 1px solid #9e9e9e;
         overflow: hidden;

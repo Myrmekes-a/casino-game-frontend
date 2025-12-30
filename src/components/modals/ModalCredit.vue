@@ -272,7 +272,7 @@
         font-weight: 800;
         color: #ffffff;
         background: linear-gradient(225deg, rgba(0, 255, 194, 0.01) 0%, rgba(0, 170, 109, 0.01) 100%), #10253c;
-        box-shadow: 0px 5px 50px 0px rgba(0, 0, 0, 0.25) inset;
+        box-shadow: 0px 5px 51px 0px rgba(0, 0, 0, 0.25) inset;
     }
 
     .modal-credit .amount-buttons button.button-active .button-inner {
