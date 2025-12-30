@@ -121,7 +121,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 15px;
+        margin-top: 14px;
     }
 
     .battles-item-element .inner-image img {

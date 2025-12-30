@@ -177,7 +177,7 @@
 
     .home-banner-user .info-avatar {
         width: 33px;
-        height: 34px;
+        height: 33px;
         display: flex;
         justify-content: center;
         align-items: flex-end;

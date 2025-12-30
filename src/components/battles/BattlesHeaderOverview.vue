@@ -178,7 +178,7 @@
     }
 
     .battles-header-overview a.link-create {
-        width: 118px;
+        width: 117px;
         height: 47px;
         position: relative;
         padding: 1px;

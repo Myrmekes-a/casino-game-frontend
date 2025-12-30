@@ -46,7 +46,7 @@
     .cashier-filter-amount .amount-min,
     .cashier-filter-amount .amount-max {
         width: 102px;
-        height: 52px;
+        height: 51px;
         position: relative;
         margin-right: 11px;
         padding: 1px;
