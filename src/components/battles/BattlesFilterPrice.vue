@@ -126,7 +126,7 @@
 
     .battles-filter-price button.button-toggle .inner-value span {
         text-transform: uppercase;
-        margin-left: 5px;
+        margin-left: 4px;
         font-size: 13px;
         font-weight: 800;
         color: #ffffff;

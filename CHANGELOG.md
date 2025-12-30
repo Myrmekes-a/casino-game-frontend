@@ -69,3 +69,5 @@
 ## [2025-12-30] Fix mobile sidebar navigation drawer
 
 ## [2025-12-30] Implement global error boundary
+
+## [2025-12-30] Add Open Graph meta tags

@@ -120,7 +120,7 @@
     }
 
     .unbox-header-overview .overview-select button.button-select {
-        height: 46px;
+        height: 47px;
         position: relative;
         display: flex;
         flex-direction: column;

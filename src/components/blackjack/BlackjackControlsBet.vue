@@ -224,7 +224,7 @@
 
     .blackjack-controls-bet .container-buttons button.button-redo {
         width: 73px;
-        margin-right: 10px;
+        margin-right: 9px;
     }
 
     .blackjack-controls-bet .container-buttons button .button-inner {
