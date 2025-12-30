@@ -89,7 +89,7 @@
         display: flex;
         align-items: center;
         padding: 0 20px;
-        border-radius: 5px;
+        border-radius: 6px;
         background: rgba(19, 66, 88, 0.1);
     }
 

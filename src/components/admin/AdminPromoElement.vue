@@ -124,7 +124,7 @@
     }
 
     .admin-promo-element .element-section.section-reward .content-value {
-        font-size: 11px;
+        font-size: 12px;
         font-weight: 600;
         color: #bbbfd0;
     }
