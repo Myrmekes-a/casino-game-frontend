@@ -137,7 +137,7 @@
         justify-content: center;
         align-items: center;
         background-color: #041e30;
-        clip-path: polygon(16px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 15px) 100%, 16px 100%, 0 75%, 0 25%);
+        clip-path: polygon(15px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 15px) 100%, 16px 100%, 0 75%, 0 25%);
         z-index: 1;
     }
 

@@ -84,7 +84,7 @@
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 59px 30px;
+        padding: 59px 29px;
     }
 
     .limiteds .limiteds-items {

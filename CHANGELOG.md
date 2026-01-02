@@ -97,3 +97,5 @@
 ## [2026-01-02] Implement game search bar component
 
 ## [2026-01-02] Add game categories sidebar panel
+
+## [2026-01-02] Fix deposit minimum amount validation
