@@ -63,7 +63,7 @@
     .affiliates-referred .header-earned,
     .affiliates-referred .header-deposited {
         width: 20%;
-        font-size: 11px;
+        font-size: 12px;
         font-weight: 800;
         color: #8bacc8;
     }

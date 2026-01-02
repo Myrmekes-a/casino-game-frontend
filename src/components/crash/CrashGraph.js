@@ -51,7 +51,7 @@
 		fontSizePx: fontSizePx,
 		axis: {
 			lineWidth: 1,
-			font: "12px Verdana",
+			font: "11px Verdana",
 			textAlign: "center",
 			strokeStyle: "white",
 			fillStyle: fillStyle
