@@ -180,7 +180,7 @@
         width: 54px;
         height: 54px;
         padding: 5px;
-        border-radius: 8px;
+        border-radius: 7px;
         background: linear-gradient(0deg, #031f34 0%, #031f34 100%), 
                     radial-gradient(80% 80% at 50% 50%, rgba(0, 255, 194, 0.05) 0%, rgba(0, 0, 0, 0) 100%);
         border: 1px solid rgba(22, 83, 95, 0.5);

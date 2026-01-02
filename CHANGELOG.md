@@ -101,3 +101,5 @@
 ## [2026-01-02] Fix deposit minimum amount validation
 
 ## [2026-01-02] Add promotional banner component
+
+## [2026-01-02] Implement KYC document upload form

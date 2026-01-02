@@ -169,7 +169,7 @@
     @media only screen and (max-width: 800px) {
 
         .unbox-overview .loading-placeholder {
-            width: calc(25% - 6.75px);
+            width: calc(25% - 6.74px);
         }
 
         .unbox-overview .loading-placeholder:nth-child(5n) {

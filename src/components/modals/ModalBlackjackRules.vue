@@ -102,7 +102,7 @@
         position: absolute;
         bottom: 0;
         left: 0;
-        border-radius: 0 0 16px 15px;
+        border-radius: 0 0 17px 15px;
         background: linear-gradient(0deg, #07263d 0%, rgba(7, 36, 58, 0) 100%);
     }
 
