@@ -276,7 +276,7 @@
 
         .mines-tile .inner-payout img {
             width: 9px;
-            height: 9px;
+            height: 10px;
         }
 
         .mines-tile .payout-value {

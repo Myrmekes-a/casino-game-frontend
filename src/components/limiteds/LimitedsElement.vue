@@ -166,7 +166,7 @@
         }
 
         button.limiteds-element:nth-child(5) {
-            margin-top: 10px;
+            margin-top: 11px;
         }
 
         button.limiteds-element:nth-child(5n) {

@@ -73,7 +73,7 @@
         left: 50%;
         transform: translate(-50%, 0);
         text-transform: uppercase;
-        font-size: 10px;
+        font-size: 9px;
         font-weight: 700;
         color: #ffffff;
         background: linear-gradient(256deg, #00ffc2 0%, #00aa6d 100%);
