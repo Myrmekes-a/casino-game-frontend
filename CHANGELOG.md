@@ -85,3 +85,5 @@
 ## [2025-12-30] Add payment method icon set
 
 ## [2026-01-02] Optimize image lazy loading strategy
+
+## [2026-01-02] Fix login form field validation

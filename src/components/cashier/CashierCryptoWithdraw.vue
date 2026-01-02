@@ -219,7 +219,7 @@
     }
 
     .cashier-crypto-withdraw .amount-header img {
-        width: 30px;
+        width: 31px;
         height: 30px;
         margin-right: 13px;
     }

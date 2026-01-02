@@ -144,7 +144,7 @@
 
     .unbox-item-element .inner-name {
         /* height: 38px; */
-        margin-top: 25px;
+        margin-top: 24px;
         margin-bottom: 10px;
         text-align: center;
         font-size: 14px;

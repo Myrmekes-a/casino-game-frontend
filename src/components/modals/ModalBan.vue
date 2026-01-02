@@ -134,7 +134,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 35px 20px 48px 20px;
+        padding: 35px 19px 48px 20px;
         border-radius: 15px;
         background: radial-gradient(100% 100% at 50% -31.45%, rgba(0, 255, 194, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(255deg, #07263d 0%, #07243a 100%);
     }
