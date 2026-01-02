@@ -201,7 +201,7 @@
 
     .duels-games .all-content {
         max-height: 409px;
-        margin-top: 25px;
+        margin-top: 24px;
         margin-right: -24px;
         padding-right: 20px;
         overflow-y: scroll;

@@ -99,3 +99,5 @@
 ## [2026-01-02] Add game categories sidebar panel
 
 ## [2026-01-02] Fix deposit minimum amount validation
+
+## [2026-01-02] Add promotional banner component

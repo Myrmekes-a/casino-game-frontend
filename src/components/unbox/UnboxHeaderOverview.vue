@@ -127,7 +127,7 @@
         justify-content: space-between;
         align-items: center;
         margin-right: 25px;
-        font-size: 13px;
+        font-size: 12px;
         font-weight: 700;
         color: rgba(110, 149, 182, 0.5);
         transition: color 0.3s ease;

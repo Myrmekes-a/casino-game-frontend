@@ -384,7 +384,7 @@
     }
 
     .battles-spinner .inner-box {
-        width: 14px;
+        width: 13px;
         height: 14px;
         margin-bottom: 10px;
         transform: rotate(45deg);
