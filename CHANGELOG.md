@@ -93,3 +93,5 @@
 ## [2026-01-02] Add multi-currency selector dropdown
 
 ## [2026-01-02] Fix lobby category filter logic
+
+## [2026-01-02] Implement game search bar component

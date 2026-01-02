@@ -366,7 +366,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, rgba(0, 255, 194, 0) 0%, #00ffc2 100%);
-        clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 10px, 100% calc(50% - 6px), calc(100% - 5px) 50%, 100% calc(50% + 6px), 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0 calc(100% - 10px), 0 calc(50% + 6px), 5px 50%, 0 calc(50% - 6px), 0 10px);
+        clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 10px, 100% calc(50% - 6px), calc(100% - 6px) 50%, 100% calc(50% + 6px), 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0 calc(100% - 10px), 0 calc(50% + 6px), 5px 50%, 0 calc(50% - 6px), 0 10px);
     }
 
     .battles-spinner .info-inner {
