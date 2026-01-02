@@ -66,7 +66,7 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        padding: 20px 0 18px 14px;
+        padding: 19px 0 18px 14px;
     }
 
     .roll-user-bets-element .info-bet,

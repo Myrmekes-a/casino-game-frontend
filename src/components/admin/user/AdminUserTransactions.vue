@@ -94,7 +94,7 @@
         width: 100%;
         display: flex;
         align-items: center;
-        padding: 0 31px 20px 20px;
+        padding: 0 31px 20px 19px;
         border-bottom: 1px solid rgba(24, 72, 109, 0.5);
     }
 
