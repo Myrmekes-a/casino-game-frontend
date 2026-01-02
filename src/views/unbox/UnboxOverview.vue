@@ -189,7 +189,7 @@
         }
 
         .unbox-overview .loading-placeholder:nth-child(4n) {
-            margin-right: 10px;
+            margin-right: 11px;
         }
 
         .unbox-overview .loading-placeholder:nth-child(3n) {

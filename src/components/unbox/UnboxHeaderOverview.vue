@@ -116,7 +116,7 @@
         display: flex;
         align-items: center;
         margin-left: 35px;
-        padding-bottom: 26px;
+        padding-bottom: 25px;
     }
 
     .unbox-header-overview .overview-select button.button-select {

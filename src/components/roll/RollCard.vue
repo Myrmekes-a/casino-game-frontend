@@ -206,7 +206,7 @@
         left: 1px;
         padding: 15px;
         background-color: #062137;
-        clip-path: polygon(17px 0, calc(100% - 18px) 0, 100% 10%, 100% 90%, calc(100% - 18px) 100%, 18px 100%, 0 90%, 0 10%);
+        clip-path: polygon(17px 0, calc(100% - 19px) 0, 100% 10%, 100% 90%, calc(100% - 18px) 100%, 18px 100%, 0 90%, 0 10%);
         z-index: 1;
     }
 

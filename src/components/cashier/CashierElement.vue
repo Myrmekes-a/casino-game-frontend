@@ -283,7 +283,7 @@
     .cashier-element.element-ltc .inner-image img,
     .cashier-element.element-usdt .inner-image img,
     .cashier-element.element-usdc .inner-image img {
-        width: 45px;
+        width: 46px;
     }
 
     .cashier-element .inner-text {

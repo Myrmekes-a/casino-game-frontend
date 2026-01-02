@@ -107,3 +107,5 @@
 ## [2026-01-02] Fix registration step error messages
 
 ## [2026-01-02] Add referral code input field
+
+## [2026-01-02] Implement VIP status badge

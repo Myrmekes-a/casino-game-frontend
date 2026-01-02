@@ -101,7 +101,7 @@
         width: 100%;
         height: 72px;
         position: relative;
-        margin-top: 20px;
+        margin-top: 19px;
         padding: 1px;
     }
 
