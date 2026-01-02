@@ -125,7 +125,7 @@
         position: absolute;
         top: 9px;
         right: 9px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 600;
         color: #5e768e;
     }

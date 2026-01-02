@@ -374,7 +374,7 @@
     }
 
     .battles-game-element .option-inner svg {
-        margin-right: 4px;
+        margin-right: 5px;
     }
 
     .battles-game-element.element-cursed.element-terminal .option-inner svg:nth-child(2) {

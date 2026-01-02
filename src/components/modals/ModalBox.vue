@@ -206,7 +206,7 @@
 
         .modal-box {
             width: calc(100vw - 21px);
-            padding: 0 10px 20px 10px;
+            padding: 0 10px 20px 11px;
         }
 
         .modal-box .info-text {

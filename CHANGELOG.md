@@ -105,3 +105,5 @@
 ## [2026-01-02] Implement KYC document upload form
 
 ## [2026-01-02] Fix registration step error messages
+
+## [2026-01-02] Add referral code input field
