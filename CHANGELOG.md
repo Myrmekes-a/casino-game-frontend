@@ -89,3 +89,5 @@
 ## [2026-01-02] Fix login form field validation
 
 ## [2026-01-02] Refresh game thumbnail grid layout
+
+## [2026-01-02] Add multi-currency selector dropdown

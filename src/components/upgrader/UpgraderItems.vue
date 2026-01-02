@@ -116,7 +116,7 @@
         justify-content: center;
         align-items: center;
         text-transform: uppercase;
-        font-size: 11px;
+        font-size: 12px;
         font-weight: 600;
         color: #5e768e;
     }
