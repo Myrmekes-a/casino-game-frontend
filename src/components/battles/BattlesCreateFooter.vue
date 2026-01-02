@@ -243,7 +243,7 @@
 
     .battles-create-footer .right-cursed.cursed-active button:after,
     .battles-create-footer .right-terminal.terminal-active button:after {
-        transform: translate(20px, 0);
+        transform: translate(19px, 0);
         background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 100%);
     }
 

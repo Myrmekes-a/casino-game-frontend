@@ -109,3 +109,5 @@
 ## [2026-01-02] Add referral code input field
 
 ## [2026-01-02] Implement VIP status badge
+
+## [2026-01-02] Add bet limits info tooltip

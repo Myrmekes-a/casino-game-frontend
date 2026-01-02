@@ -141,7 +141,7 @@
     }
 
     button.duels-games-element .bet-box {
-        height: 48px;
+        height: 49px;
         display: flex;
         align-items: center;
         margin-left: 15px;
