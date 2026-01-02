@@ -69,7 +69,7 @@
 
     .modal-battles-modes .header-icon img {
         width: 48px;
-        height: 49px;
+        height: 48px;
     }
 
     .modal-battles-modes .modes-header span {
