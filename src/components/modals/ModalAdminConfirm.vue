@@ -94,7 +94,7 @@
 
         .modal-admin-confirm {
             width: calc(100vw - 20px);
-            padding: 35px 9px 30px 10px;
+            padding: 35px 10px 30px 10px;
         }
 
     }

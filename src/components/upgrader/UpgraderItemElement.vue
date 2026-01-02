@@ -33,7 +33,7 @@
     .upgrader-item-element {
         width: calc(14.28% - 4.27px);
         position: relative;
-        margin-bottom: 5px;
+        margin-bottom: 6px;
         margin-right: 5px;
         padding: 1px;
         z-index: 1;
