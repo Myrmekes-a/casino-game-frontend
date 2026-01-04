@@ -63,7 +63,7 @@
         top: 1px;
         left: 1px;
         background: #052238;
-        clip-path: polygon(9px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 10px 100%, 0 75%, 0 25%);
+        clip-path: polygon(9px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 10px 100%, 0 75%, 0 25%);
         z-index: -1;
     }
 

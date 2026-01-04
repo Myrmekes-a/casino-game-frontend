@@ -121,3 +121,5 @@
 ## [2026-01-04] Fix idle session timeout handler
 
 ## [2026-01-04] Add GDPR cookie consent banner
+
+## [2026-01-04] Implement game favourites feature

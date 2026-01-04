@@ -157,7 +157,7 @@
 
     .battles-create-footer .left-private.private-active button:after,
     .battles-create-footer .left-affiliate.affiliate-active button:after {
-        transform: translate(21px, 0);
+        transform: translate(20px, 0);
         background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 100%);
     }
 

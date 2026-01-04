@@ -381,7 +381,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, #010a11 0%, #112c44 100%);
-        clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 10px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 10px 100%, 0 75%, 0 25%);
     }
 
     aside#chat .footer-input input {
