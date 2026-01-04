@@ -66,7 +66,7 @@
     .battles-filter-price {
         width: 220px;
         position: relative;
-        margin-right: 20px;
+        margin-right: 19px;
         z-index: 5;
     }
 

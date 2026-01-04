@@ -211,7 +211,7 @@
 
         .admin-user-transactions-element .element-section {
             width: 100%!important;
-            margin-top: 10px;
+            margin-top: 11px;
         }
 
         .admin-user-transactions-element .element-section.section-date {

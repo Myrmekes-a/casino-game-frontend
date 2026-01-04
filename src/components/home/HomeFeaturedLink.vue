@@ -154,7 +154,7 @@
     @media only screen and (max-width: 800px) {
 
         a.home-featured-link {
-            width: calc(50% - 9px);
+            width: calc(50% - 8px);
             margin-top: 20px;
         }
 

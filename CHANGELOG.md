@@ -111,3 +111,5 @@
 ## [2026-01-02] Implement VIP status badge
 
 ## [2026-01-02] Add bet limits info tooltip
+
+## [2026-01-04] Fix withdrawal minimum threshold warning

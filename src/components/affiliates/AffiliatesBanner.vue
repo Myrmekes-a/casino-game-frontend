@@ -26,7 +26,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        border-radius: 15px;
+        border-radius: 14px;
         /* font-family: 'Rubik', sans-serif; */
         background: radial-gradient(75% 175% at 50% 95%, rgba(151, 102, 255, 0.31) 0%, rgba(0, 0, 0, 0) 100%),
                     linear-gradient(125deg, rgba(0, 84, 246, 0.5) 0%, rgba(0, 0, 0, 0) 20%),
