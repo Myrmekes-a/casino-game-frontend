@@ -117,3 +117,5 @@
 ## [2026-01-04] Implement 2FA setup wizard
 
 ## [2026-01-04] Add email verification flow
+
+## [2026-01-04] Fix idle session timeout handler

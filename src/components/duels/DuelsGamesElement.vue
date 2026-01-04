@@ -157,7 +157,7 @@
     button.duels-games-element .bet-box img {
         width: 14px;
         height: 14px;
-        margin-right: 5px;
+        margin-right: 4px;
     }
 
     button.duels-games-element .box-value  {

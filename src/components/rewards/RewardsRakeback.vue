@@ -304,7 +304,7 @@
     @media only screen and (max-width: 600px) {
 
         .rewards-rakeback .rakeback-inner {
-            padding: 23px 20px 22px 35px;
+            padding: 23px 19px 22px 35px;
         }
 
         .rewards-rakeback .inner-image {
