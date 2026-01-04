@@ -255,7 +255,7 @@
         font-weight: 700;
         color: #bbbfd0;
         background-color: #214059;
-        clip-path: polygon(4px 0, calc(100% - 4px) 0, 100% 25%, 100% 75%, calc(100% - 4px) 100%, 4px 100%, 0 75%, 0 25%);
+        clip-path: polygon(4px 0, calc(100% - 4px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 4px 100%, 0 75%, 0 25%);
     }
 
     .roll-controls .amount-buttons button.button-max .button-inner {

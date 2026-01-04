@@ -127,7 +127,7 @@
         width: 100%;
         display: flex;
         align-items: center;
-        padding-bottom: 15px;
+        padding-bottom: 16px;
         font-size: 16px;
         font-weight: 800;
         color: #ffffff;

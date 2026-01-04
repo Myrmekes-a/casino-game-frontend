@@ -83,7 +83,7 @@
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        margin-right: 8px;
+        margin-right: 9px;
         margin-bottom: 8px;
         padding: 15px;
         background: linear-gradient(0deg, rgba(255, 255, 255, 0.01) 0%, rgba(255, 255, 255, 0.01) 100%), 

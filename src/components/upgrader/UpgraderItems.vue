@@ -84,7 +84,7 @@
 
     .upgrader-items .items-content {
         width: 100%;
-        margin-top: 19px;
+        margin-top: 20px;
     }
 
     .upgrader-items .content-loading {
