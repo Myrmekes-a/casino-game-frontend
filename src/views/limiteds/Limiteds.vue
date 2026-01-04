@@ -89,7 +89,7 @@
 
     .limiteds .limiteds-items {
         width: calc(100% - 280px);
-        padding-right: 36px;
+        padding-right: 37px;
     }
 
     .limiteds .items-header {

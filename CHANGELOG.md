@@ -127,3 +127,5 @@
 ## [2026-01-04] Fix pagination component overflow
 
 ## [2026-01-04] Add recently played games section
+
+## [2026-01-04] Implement spin history detail modal
