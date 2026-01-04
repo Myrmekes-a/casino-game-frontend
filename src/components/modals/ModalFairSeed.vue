@@ -204,7 +204,7 @@
 
     .modal-fair-seed button.button-cycle {
         width: 90px;
-        height: 43px;
+        height: 44px;
         position: absolute;
         top: 50%;
         right: 8px;

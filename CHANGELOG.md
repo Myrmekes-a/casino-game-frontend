@@ -129,3 +129,5 @@
 ## [2026-01-04] Add recently played games section
 
 ## [2026-01-04] Implement spin history detail modal
+
+## [2026-01-04] Add win/loss statistics chart

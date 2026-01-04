@@ -183,7 +183,7 @@
 
     .home-links .links-bottom {
         width: 100%;
-        height: 86px;
+        height: 87px;
         display: flex;
         justify-content: space-between;
         align-items: center;
