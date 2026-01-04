@@ -94,7 +94,7 @@ fairGetMinesOutcome();
     .fair-mines .mines-code {
         width: 100%;
         height: 225px;
-        margin-top: 25px;
+        margin-top: 24px;
         padding: 17px 4px 16px 16px;
         border-radius: 9px;
         background: #071f2e;

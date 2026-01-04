@@ -162,7 +162,7 @@
     @media only screen and (max-width: 500px) {
 
         .modal-reset {
-            padding: 55px 10px 48px 10px;
+            padding: 54px 10px 48px 10px;
         }
 
         .modal-reset button.button-reset {

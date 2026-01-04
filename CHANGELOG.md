@@ -113,3 +113,5 @@
 ## [2026-01-02] Add bet limits info tooltip
 
 ## [2026-01-04] Fix withdrawal minimum threshold warning
+
+## [2026-01-04] Implement 2FA setup wizard

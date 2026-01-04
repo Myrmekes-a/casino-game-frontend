@@ -286,7 +286,7 @@
     }
 
     .duels-game-roller .amount-value span {
-        font-size: 20px;
+        font-size: 21px;
         font-weight: 800;
         color: #ffffff;
     }
