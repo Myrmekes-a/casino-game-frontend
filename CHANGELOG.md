@@ -119,3 +119,5 @@
 ## [2026-01-04] Add email verification flow
 
 ## [2026-01-04] Fix idle session timeout handler
+
+## [2026-01-04] Add GDPR cookie consent banner

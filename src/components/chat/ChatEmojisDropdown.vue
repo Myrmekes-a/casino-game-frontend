@@ -140,6 +140,6 @@
     .chat-emojis-dropdown .inner-list button {
         width: 9.09%;
         height: 26px;
-        font-size: 18px;
+        font-size: 17px;
     }
 </style>

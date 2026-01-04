@@ -222,7 +222,7 @@
     @media only screen and (max-width: 700px) {
 
         .modal-privacy {
-            padding: 81px 15px 0 15px;
+            padding: 81px 15px 0 16px;
         }
 
     }

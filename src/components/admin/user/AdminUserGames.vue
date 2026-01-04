@@ -108,7 +108,7 @@
 
     .admin-user-games .head-game {
         width: 14%;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 700;
         color: #8bacc8;
     }

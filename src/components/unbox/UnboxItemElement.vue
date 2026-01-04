@@ -33,7 +33,7 @@
         width: calc(14.28% - 5.14px);
         position: relative;
         margin-bottom: 7px;
-        margin-right: 6px;
+        margin-right: 7px;
         padding: 1px;
         z-index: 1;
     }
