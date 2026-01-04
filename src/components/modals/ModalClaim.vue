@@ -182,7 +182,7 @@
     .modal-claim .input-content {
         width: 100%;
         position: relative;
-        margin-top: 16px;
+        margin-top: 15px;
     }
 
     .modal-claim .input-content input {

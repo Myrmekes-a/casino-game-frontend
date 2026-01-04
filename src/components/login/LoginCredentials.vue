@@ -395,7 +395,7 @@
         }
 
         .login-credentials button.button-toggle {
-            margin-bottom: 10px;
+            margin-bottom: 11px;
             margin-right: 0;
         }
 
