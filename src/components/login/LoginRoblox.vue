@@ -256,7 +256,7 @@
     }
 
     .login-roblox button.button-toggle.button-active {
-        filter: drop-shadow(0px 4px 25px rgba(1, 230, 169, 0.15)) 
+        filter: drop-shadow(0px 5px 25px rgba(1, 230, 169, 0.15)) 
                 drop-shadow(0px 2px 24px rgba(15, 41, 63, 0.35));
     }
 
