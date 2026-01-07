@@ -86,7 +86,7 @@
 
     .cashier-withdraw .section-title {
         width: 100%;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 700;
         color: #5191b1;
     }

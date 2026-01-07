@@ -97,7 +97,7 @@
     .login-forgot .element-input input {
         width: 100%;
         height: 100%;
-        padding: 0 115px 0 25px;
+        padding: 0 114px 0 25px;
         font-size: 16px;
         font-weight: 600;
         color: #ffffff;

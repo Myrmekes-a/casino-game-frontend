@@ -122,7 +122,7 @@
     }
 
     button.gift-withdraw-element .inner-amount img {
-        width: 21px;
+        width: 20px;
         height: 21px;
         margin-right: 8px;
     }
