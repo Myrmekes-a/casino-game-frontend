@@ -97,7 +97,7 @@
         height: 123px;
         display: flex;
         justify-content: space-between;
-        margin-right: 20px;
+        margin-right: 19px;
         margin-top: 20px;
         border-radius: 14px;
         background: radial-gradient(285% 150% at 50% 50%, #001323 0%, #000e1a 100%);

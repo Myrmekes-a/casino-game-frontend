@@ -286,7 +286,7 @@
     }
 
     .modal-admin-affiliate .affiliate-id {
-        margin-top: 5px;
+        margin-top: 4px;
         font-size: 14px;
         font-weight: 400;
         color: #db7d48;

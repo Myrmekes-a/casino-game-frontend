@@ -45,7 +45,7 @@
     }
 
     .game-dealer .blackjack-card:nth-child(2) {
-        top: 15px;
+        top: 14px;
         bottom: inherit;
     }
 

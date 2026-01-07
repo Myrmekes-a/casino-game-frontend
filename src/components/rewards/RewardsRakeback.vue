@@ -288,7 +288,7 @@
     }
 
     .rewards-rakeback .amount-value span {
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 600;
         color: #ffffff;
     }

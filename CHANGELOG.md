@@ -147,3 +147,5 @@
 ## [2026-01-07] Fix mobile slot action controls
 
 ## [2026-01-07] Implement auto-spin configuration
+
+## [2026-01-07] Add game info detail modal
