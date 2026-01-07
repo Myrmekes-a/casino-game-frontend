@@ -181,7 +181,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 10px 21px;
+            padding: 11px 21px;
         }
 
         .admin-boxes-element .element-section {

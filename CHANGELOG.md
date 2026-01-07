@@ -149,3 +149,5 @@
 ## [2026-01-07] Implement auto-spin configuration
 
 ## [2026-01-07] Add game info detail modal
+
+## [2026-01-07] Fix bankroll tracker calculations

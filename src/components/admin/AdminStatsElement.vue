@@ -181,7 +181,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 10px 20px;
+            padding: 10px 19px;
         }
 
         .admin-stats-element .element-section {
