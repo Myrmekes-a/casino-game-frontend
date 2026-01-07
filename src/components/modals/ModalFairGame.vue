@@ -257,7 +257,7 @@
     @media only screen and (max-width: 500px) {
 
         .modal-fair-game {
-            padding: 65px 10px 30px 10px;
+            padding: 66px 10px 30px 10px;
         }
 
     }

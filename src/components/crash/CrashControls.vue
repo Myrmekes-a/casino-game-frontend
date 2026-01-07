@@ -715,7 +715,7 @@
 
     .crash-controls .stop-profit input,
     .crash-controls .stop-lose input {
-        padding: 0 0 0 26px;
+        padding: 0 0 0 27px;
     }
 
     .crash-controls .adjust-win input::placeholder,

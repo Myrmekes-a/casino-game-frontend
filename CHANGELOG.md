@@ -135,3 +135,5 @@
 ## [2026-01-07] Fix currency conversion rate display
 
 ## [2026-01-07] Implement live dealer lobby grid
+
+## [2026-01-07] Add game provider filter chips
