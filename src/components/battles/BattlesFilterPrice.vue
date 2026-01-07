@@ -159,7 +159,7 @@
         display: flex;
         align-items: center;
         padding: 0 14px;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 600;
         color: #8bacc8;
         border-bottom: 1px solid #0a273f;

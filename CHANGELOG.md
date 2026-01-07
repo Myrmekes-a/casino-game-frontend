@@ -153,3 +153,5 @@
 ## [2026-01-07] Fix bankroll tracker calculations
 
 ## [2026-01-07] Implement cashback rewards display
+
+## [2026-01-07] Add loyalty points progress widget

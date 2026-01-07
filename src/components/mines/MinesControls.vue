@@ -343,7 +343,7 @@
         top: 0;
         left: 0;
         background-color: #051824;
-        clip-path: polygon(4px 0, calc(100% - 4px) 0, 100% 25%, 100% 75%, calc(100% - 4px) 100%, 4px 100%, 0 75%, 0 25%);
+        clip-path: polygon(5px 0, calc(100% - 4px) 0, 100% 25%, 100% 75%, calc(100% - 4px) 100%, 4px 100%, 0 75%, 0 25%);
     }
 
     .mines-controls .top-slider input::-webkit-slider-thumb {

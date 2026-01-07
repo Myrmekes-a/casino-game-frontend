@@ -205,7 +205,7 @@
         }
 
         .unbox-overview .loading-placeholder:nth-child(3n) {
-            margin-right: 9px;
+            margin-right: 10px;
         }
 
         .unbox-overview .loading-placeholder:nth-child(2n) {

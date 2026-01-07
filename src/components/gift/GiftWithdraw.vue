@@ -117,7 +117,7 @@
     .gift-withdraw .filter-search input::placeholder,
     .gift-withdraw .filter-min input::placeholder,
     .gift-withdraw .filter-max input::placeholder {
-        font-size: 15px;
+        font-size: 16px;
         color: #49687d;
     }
 
