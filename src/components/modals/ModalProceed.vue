@@ -77,7 +77,7 @@
         justify-content: center;
         align-items: center;
         top: 15px;
-        left: 20px;
+        left: 19px;
         filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.1));
         z-index: 1;
     }

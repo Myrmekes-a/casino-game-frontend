@@ -143,3 +143,5 @@
 ## [2026-01-07] Implement free spins counter badge
 
 ## [2026-01-07] Add welcome bonus banner component
+
+## [2026-01-07] Fix mobile slot action controls
