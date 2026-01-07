@@ -131,3 +131,5 @@
 ## [2026-01-04] Implement spin history detail modal
 
 ## [2026-01-04] Add win/loss statistics chart
+
+## [2026-01-07] Fix currency conversion rate display

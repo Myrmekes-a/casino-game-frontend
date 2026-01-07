@@ -116,7 +116,7 @@
     }
 
     .cashier-robux-element .element-section.section-date .section-content {
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 400;
         color: #bbbfd0;
     }

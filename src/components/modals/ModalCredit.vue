@@ -174,7 +174,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 0 12px;
+        padding: 0 11px;
         font-size: 14px;
         font-weight: 800;
         color: #75adc2;
