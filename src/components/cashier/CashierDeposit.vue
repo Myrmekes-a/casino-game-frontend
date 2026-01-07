@@ -128,7 +128,7 @@
     }
 
     .cashier-deposit .gift-title {
-        font-size: 13px;
+        font-size: 14px;
         font-weight: 400;
         color: #5191b1;
     }

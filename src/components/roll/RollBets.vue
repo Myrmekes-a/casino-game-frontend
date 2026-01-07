@@ -168,7 +168,7 @@
 
     .roll-bets .header-amount img {
         width: 16px;
-        height: 16px;
+        height: 17px;
         margin-right: 10px;
     }
 

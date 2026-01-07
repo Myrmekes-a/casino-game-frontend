@@ -155,3 +155,5 @@
 ## [2026-01-07] Implement cashback rewards display
 
 ## [2026-01-07] Add loyalty points progress widget
+
+## [2026-01-07] Fix leaderboard rank ordering

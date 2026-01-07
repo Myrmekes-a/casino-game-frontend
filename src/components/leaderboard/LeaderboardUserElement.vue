@@ -351,7 +351,7 @@
             display: grid;
             grid-template-columns: 30px calc(50% - 15px) calc(50% - 15px);
             grid-template-rows: auto auto;
-            padding: 15px 25px 16px 35px;
+            padding: 16px 25px 16px 35px;
         }
 
         .leaderboard-user-element .inner-pos {
