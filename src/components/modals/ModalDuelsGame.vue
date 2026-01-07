@@ -125,7 +125,7 @@
 
         .modal-duels-game .game-content {
             width: 100%;
-            padding: 9px 0 325px 0;
+            padding: 10px 0 325px 0;
         }
 
     }

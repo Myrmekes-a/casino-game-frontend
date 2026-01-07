@@ -266,7 +266,7 @@
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 17px 15px 0 15px;
+        padding: 17px 15px 0 14px;
         z-index: 1;
     }
 

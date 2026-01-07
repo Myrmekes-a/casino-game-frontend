@@ -157,3 +157,5 @@
 ## [2026-01-07] Add loyalty points progress widget
 
 ## [2026-01-07] Fix leaderboard rank ordering
+
+## [2026-01-07] Implement web push notifications
