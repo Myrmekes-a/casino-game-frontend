@@ -49,7 +49,7 @@
     }
 
     .blackjack-value.value-won {
-        filter: drop-shadow(0px 0px 10px #01ce53);
+        filter: drop-shadow(0px 0px 11px #01ce53);
     }
 
     .game-dealer .blackjack-value {

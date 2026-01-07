@@ -188,7 +188,7 @@
     }
 
     .leaderboard-banner .ranks-step:nth-child(1) {
-        margin: 36px 35px 0 0;
+        margin: 36px 36px 0 0;
         font-size: 26px;
         opacity: 0.5;
     }

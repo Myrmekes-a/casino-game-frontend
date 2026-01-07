@@ -102,7 +102,7 @@
         display: flex;
         align-items: center;
         margin-right: 20px;
-        font-size: 12px;
+        font-size: 13px;
         font-weight: 700;
         color: #5e768e;
     }
