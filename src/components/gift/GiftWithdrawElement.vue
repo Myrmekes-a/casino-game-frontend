@@ -41,7 +41,7 @@
 
 <style scoped>
     button.gift-withdraw-element {
-        width: calc(20% - 9px);
+        width: calc(20% - 8px);
         height: 235px;
         position: relative;
         margin-top: 9px;

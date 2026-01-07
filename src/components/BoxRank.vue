@@ -128,7 +128,7 @@
     }
 
     .box-rank.rank-mod .rank-inner img {
-        width: 15px;
+        width: 16px;
         height: 15px;
     }
 

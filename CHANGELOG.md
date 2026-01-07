@@ -141,3 +141,5 @@
 ## [2026-01-07] Fix RTP percentage display on cards
 
 ## [2026-01-07] Implement free spins counter badge
+
+## [2026-01-07] Add welcome bonus banner component
