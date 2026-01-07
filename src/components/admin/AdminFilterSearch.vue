@@ -67,7 +67,7 @@
 <style scoped>
     .admin-filter-search {
         width: 100%;
-        height: 47px;
+        height: 46px;
         position: relative;
         border-radius: 4px;
         background: rgba(19, 66, 88, 0.25);

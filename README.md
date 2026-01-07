@@ -17,8 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-## Notes
-
-Vue 2 frontend. Requires Node 18+. Run npm install then npm run dev or npm run build.

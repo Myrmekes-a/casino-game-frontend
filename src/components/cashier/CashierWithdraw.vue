@@ -76,7 +76,7 @@
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-        margin-top: 27px;
+        margin-top: 28px;
     }
 
     .cashier-withdraw .withdraw-section:last-child {

@@ -145,3 +145,5 @@
 ## [2026-01-07] Add welcome bonus banner component
 
 ## [2026-01-07] Fix mobile slot action controls
+
+## [2026-01-07] Implement auto-spin configuration

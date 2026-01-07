@@ -257,7 +257,7 @@
 
     .battles-game-element .info-option {
         width: 108px;
-        margin-top: 6px;
+        margin-top: 7px;
     }
 
     .battles-game-element .info-type:before,
