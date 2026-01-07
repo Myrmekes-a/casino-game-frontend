@@ -199,7 +199,7 @@
         }
 
         .rewards-box-element:nth-child(6n) {
-            margin-right: 9px;
+            margin-right: 8px;
         }
 
         .rewards-box-element:nth-child(5n) {

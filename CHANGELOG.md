@@ -139,3 +139,5 @@
 ## [2026-01-07] Add game provider filter chips
 
 ## [2026-01-07] Fix RTP percentage display on cards
+
+## [2026-01-07] Implement free spins counter badge

@@ -75,7 +75,7 @@
         font-weight: 600;
         color: #ffffff;
         background: #041b2d;
-        clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 9px 100%, 0 75%, 0 25%);
+        clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 9px 100%, 0 75%, 0 25%);
     }
 
     .cashier-filter-amount .amount-min input::placeholder,

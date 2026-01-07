@@ -64,7 +64,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-bottom: 20px;
+        margin-bottom: 19px;
         opacity: 0.25;
     }
 
