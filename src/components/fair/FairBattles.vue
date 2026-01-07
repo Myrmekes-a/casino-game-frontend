@@ -83,7 +83,7 @@ fairGetBattlesOutcome();
         width: 100%;
         height: 225px;
         margin-top: 25px;
-        padding: 16px 4px 16px 17px;
+        padding: 15px 4px 16px 17px;
         border-radius: 8px;
         background: #071f2e;
     }

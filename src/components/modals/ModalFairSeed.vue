@@ -137,7 +137,7 @@
 
     .modal-fair-seed .header-icon {
         width: 80px;
-        height: 80px;
+        height: 81px;
         display: flex;
         justify-content: center;
         align-items: center;

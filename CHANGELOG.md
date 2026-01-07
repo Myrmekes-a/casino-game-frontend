@@ -151,3 +151,5 @@
 ## [2026-01-07] Add game info detail modal
 
 ## [2026-01-07] Fix bankroll tracker calculations
+
+## [2026-01-07] Implement cashback rewards display
