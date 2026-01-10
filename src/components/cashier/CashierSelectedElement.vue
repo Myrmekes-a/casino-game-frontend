@@ -74,7 +74,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-top: 6px;
+        margin-top: 7px;
         padding: 17px 25px 18px 15px;
         border-radius: 10px;
         background: linear-gradient(0deg, #031f34 0%, #031f34 100%), 

@@ -170,7 +170,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-right: 24px;
+        margin-right: 25px;
         border-radius: 50%;
         font-size: 15px;
         font-weight: 800;

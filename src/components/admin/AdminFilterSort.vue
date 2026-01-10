@@ -85,7 +85,7 @@
 
     .admin-filter-sort button.button-toggle {
         width: 100%;
-        height: 47px;
+        height: 46px;
         display: flex;
         justify-content: space-between;
         align-items: center;
