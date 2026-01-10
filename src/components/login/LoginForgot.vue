@@ -113,7 +113,7 @@
         height: 46px;
         position: absolute;
         top: 50%;
-        right: 15px;
+        right: 16px;
         transform: translate(0, -50%);
         z-index: 1;
         transition: all .2s;

@@ -155,7 +155,7 @@
     }
 
     .modal-tip .username-loading {
-        width: 150px;
+        width: 149px;
         height: 30px;
         border-radius: 5px;
     }

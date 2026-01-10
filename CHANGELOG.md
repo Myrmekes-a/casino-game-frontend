@@ -161,3 +161,5 @@
 ## [2026-01-07] Implement web push notifications
 
 ## [2026-01-10] Add full transaction history page
+
+## [2026-01-10] Fix date range picker component
