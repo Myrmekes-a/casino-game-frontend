@@ -111,7 +111,7 @@
     }
 
     .admin-profit-element span {
-        font-size: 33px;
+        font-size: 32px;
         font-weight: 800;
         color: #f55046;
     }

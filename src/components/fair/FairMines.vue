@@ -117,7 +117,7 @@ fairGetMinesOutcome();
     }
 
     .fair-mines .mines-code pre code {
-        font-size: 12px;
+        font-size: 13px;
         font-weight: 600;
         color: rgba(187, 191, 208, 0.5);
     }
