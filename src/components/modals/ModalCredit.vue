@@ -432,7 +432,7 @@
 
         .modal-credit {
             width: calc(100vw - 20px);
-            padding: 65px 10px 50px 10px;
+            padding: 65px 11px 50px 10px;
         }
 
     }

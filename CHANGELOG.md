@@ -163,3 +163,5 @@
 ## [2026-01-10] Add full transaction history page
 
 ## [2026-01-10] Fix date range picker component
+
+## [2026-01-10] Implement support ticket submission form
