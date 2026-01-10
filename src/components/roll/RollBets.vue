@@ -92,7 +92,7 @@
 <style scoped>
     .roll-bets {
         width: 320px;
-        padding: 18px 15px;
+        padding: 18px 14px;
         border-radius: 15px;
         background: #051f33;
         border: 1px solid rgba(20, 68, 104, 0.35);

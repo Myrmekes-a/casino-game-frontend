@@ -181,7 +181,7 @@
         .upgrader-filter-amount {
             width: calc(50% - 5px);
             margin-top: 8px;
-            margin-right: 9px;
+            margin-right: 8px;
         }
 
     }

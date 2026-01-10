@@ -13,7 +13,7 @@
   "dependencies": {
     "@hcaptcha/vue-hcaptcha": "^0.3.2",
     "axios": "^0.27.1",
-    "chart.js": "^3.9.1",
+    "chart.js": "^3.9.0",
     "core-js": "^3.6.5",
     "crypto-js": "^4.1.1",
     "nvm": "^0.0.5",
