@@ -268,7 +268,7 @@
         justify-content: center;
         align-items: center;
         border-radius: 5px;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 800;
         color: #ffffff;
         background: linear-gradient(225deg, rgba(0, 255, 194, 0.01) 0%, rgba(0, 170, 109, 0.01) 100%), #10253c;

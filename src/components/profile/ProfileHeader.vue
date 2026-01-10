@@ -166,7 +166,7 @@
     .profile-header .info-username {
         display: flex;
         align-items: center;
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 700;
         color: #ffffff;
     }

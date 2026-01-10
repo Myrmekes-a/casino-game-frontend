@@ -171,3 +171,5 @@
 ## [2026-01-10] Fix footer navigation link alignment
 
 ## [2026-01-10] Implement terms and conditions modal
+
+## [2026-01-10] Add responsible gaming limit tools

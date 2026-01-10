@@ -164,7 +164,7 @@
         top: 1px;
         left: 1px;
         padding: 0 175px 0 43px;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 600;
         color: #ffffff;
         background-color: #07253a;
