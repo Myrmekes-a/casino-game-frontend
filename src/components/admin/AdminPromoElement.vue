@@ -164,7 +164,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 9px 19px;
+            padding: 10px 19px;
         }
 
         .admin-promo-element .element-section {

@@ -175,3 +175,5 @@
 ## [2026-01-10] Add responsible gaming limit tools
 
 ## [2026-01-10] Fix deposit limit update form
+
+## [2026-01-10] Implement self-exclusion request flow

@@ -194,7 +194,7 @@
     }
 
     .roll-controls .controls-amount img {
-        width: 19px;
+        width: 18px;
         height: 19px;
         position: absolute;
         top: 50%;

@@ -148,7 +148,7 @@
         justify-content: center;
         align-items: center;
         margin-top: 10px;
-        padding-top: 13px;
+        padding-top: 12px;
         border-top: 1px solid rgba(255, 255, 255, 0.1);
     }
 

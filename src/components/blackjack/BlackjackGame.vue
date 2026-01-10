@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <div class="blackjack-game">
         <div class="game-table">
             <img src="@/assets/img/blackjack/table.png" />
@@ -221,7 +221,7 @@
     }
 
     .blackjack-game .dealer-cards {
-        width: 80px;
+        width: 81px;
     }
 
     .blackjack-game .dealer-cards .dealer-enter-active {
