@@ -80,7 +80,7 @@
     }
 
     .duels-filter-count button.button-toggle svg:first-of-type {
-        margin-right: 8px;
+        margin-right: 7px;
     }
 
     .duels-filter-count button.button-toggle svg:last-of-type {

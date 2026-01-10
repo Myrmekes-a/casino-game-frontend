@@ -113,7 +113,7 @@
     .battles-header-overview .info-sort:before {
         content: '';
         width: 1px;
-        height: 28px;
+        height: 27px;
         position: absolute;
         top: 50%;
         left: 0;

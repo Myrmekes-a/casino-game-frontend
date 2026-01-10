@@ -182,7 +182,7 @@
     .modal-link-roblox .cookie-input,
     .modal-link-roblox .element-input {
         width: 100%;
-        height: 78px;
+        height: 77px;
         position: relative;
         margin-top: 19px;
         padding: 1px;

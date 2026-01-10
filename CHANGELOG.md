@@ -177,3 +177,5 @@
 ## [2026-01-10] Fix deposit limit update form
 
 ## [2026-01-10] Implement self-exclusion request flow
+
+## [2026-01-10] Add account verification status badge

@@ -253,7 +253,7 @@
     .chat-message-element .system-header {
         display: flex;
         align-items: center;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 800;
     }
 
