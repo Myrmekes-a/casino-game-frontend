@@ -159,3 +159,5 @@
 ## [2026-01-07] Fix leaderboard rank ordering
 
 ## [2026-01-07] Implement web push notifications
+
+## [2026-01-10] Add full transaction history page

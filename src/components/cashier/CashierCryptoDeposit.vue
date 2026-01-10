@@ -327,7 +327,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, #04131f 0%, #223a4e 100%);
-        clip-path: polygon(10px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 9px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 9px 100%, 0 75%, 0 25%);
         z-index: -1;
     }
 

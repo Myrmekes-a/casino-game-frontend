@@ -97,7 +97,7 @@
     @media only screen and (max-width: 1050px) {
 
         a.home-game-element {
-            width: calc(25% - 11.25px);
+            width: calc(25% - 11.24px);
             margin-right: 15px;
         }
 

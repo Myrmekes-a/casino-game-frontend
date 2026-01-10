@@ -48,7 +48,7 @@
 <style scoped>
     .cashier-element {
         width: calc(25% - 9px);
-        height: 84px;
+        height: 85px;
         margin-top: 12px;
         margin-right: 12px;
         padding: 1px;

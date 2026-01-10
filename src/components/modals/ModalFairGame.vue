@@ -182,7 +182,7 @@
     .modal-fair-game .game-element,
     .modal-fair-game .game-group {
         width: 100%;
-        margin-top: 25px;
+        margin-top: 26px;
     }
 
     .modal-fair-game .game-group {

@@ -170,7 +170,7 @@
     @media only screen and (max-width: 900px) {
 
         .roll-user-bets-element {
-            width: calc(50% - 5px);
+            width: calc(50% - 6px);
         }
 
         .roll-user-bets-element:nth-child(3) {
