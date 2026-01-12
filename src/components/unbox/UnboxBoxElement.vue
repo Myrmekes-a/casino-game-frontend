@@ -38,7 +38,7 @@
 
 <style scoped>
     .unbox-box-element {
-        width: calc(14.28% - 7.7px);
+        width: calc(14.28% - 7.6px);
         height: 220px;
         display: flex;
         flex-direction: column;

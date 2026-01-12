@@ -203,3 +203,5 @@
 ## [2026-01-12] Performance profiling improvements
 
 ## [2026-01-12] Fix miscellaneous typos in UI strings
+
+## [2026-01-12] Add loading spinner to async routes

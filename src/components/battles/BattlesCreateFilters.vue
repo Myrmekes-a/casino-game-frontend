@@ -85,7 +85,7 @@
     .battles-create-filters .left-type:before {
         content: '';
         width: 1px;
-        height: 27px;
+        height: 28px;
         position: absolute;
         top: 50%;
         left: 0;
