@@ -195,7 +195,7 @@
     .banner-rain .bottom-timer {
         margin-right: 8px;
         background: linear-gradient(90deg, rgba(0, 0, 0, 0.12) -100%, rgba(0, 33, 24, 0.15) -50%, rgba(0, 99, 73, 0.144986) 25%, rgba(1, 193, 143, 0.1) 65%, rgba(1, 237, 176, 0.07) 100%);
-        border: 0.5px solid #34b49e;
+        border: 0.6px solid #34b49e;
     }
 
     .banner-rain .bottom-timer svg {

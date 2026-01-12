@@ -56,7 +56,7 @@
   .admin-filter-duration {
       width: 100%;
       position: relative;
-      margin-top: 12px;
+      margin-top: 11px;
       z-index: 10;
   }
 

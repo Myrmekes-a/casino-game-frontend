@@ -58,7 +58,7 @@
     .upgrader-filter-search input {
         width: 100%;
         height: 100%;
-        padding: 0 10px 0 43px;
+        padding: 0 10px 0 44px;
         font-size: 14px;
         font-weight: 600;
         color: #ffffff;

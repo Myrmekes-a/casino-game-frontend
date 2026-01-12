@@ -201,3 +201,5 @@
 ## [2026-01-12] Minor copy and label fixes
 
 ## [2026-01-12] Performance profiling improvements
+
+## [2026-01-12] Fix miscellaneous typos in UI strings
