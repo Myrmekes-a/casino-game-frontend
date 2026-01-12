@@ -122,7 +122,7 @@
         width: calc(50% - 11px);
         height: 80px;
         position: relative;
-        margin-right: 23px;
+        margin-right: 24px;
         padding: 1px;
         z-index: 1;
     }

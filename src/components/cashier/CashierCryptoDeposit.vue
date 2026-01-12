@@ -424,7 +424,7 @@
         position: relative;
         border-radius: 8px;
         overflow: hidden;
-        clip-path: polygon(14px 0, calc(100% - 13px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 13px 100%, 0 75%, 0 25%);
+        clip-path: polygon(14px 0, calc(100% - 12px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 13px 100%, 0 75%, 0 25%);
     }
 
     .cashier-crypto-deposit .input-loading::after {

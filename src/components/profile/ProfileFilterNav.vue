@@ -62,7 +62,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 0 12px;
-        border-radius: 4px;
+        border-radius: 5px;
         background: rgba(19, 66, 88, 0.25);
     }
 
