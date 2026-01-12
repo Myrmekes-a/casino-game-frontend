@@ -214,7 +214,7 @@
         top: 1px;
         left: 1px;
         background: #041f36;
-        clip-path: polygon(24px 0, calc(50% - 9px) 0, 50% 8px, calc(50% + 9px) 0, calc(100% - 24px) 0, 100% 15%, 100% 85%, calc(100% - 24px) 100%, calc(50% + 8px) 100%, 50% calc(100% - 8px), calc(50% - 8px) 100%, 24px 100%, 0 85%, 0 15%);
+        clip-path: polygon(24px 0, calc(50% - 9px) 0, 50% 8px, calc(50% + 9px) 0, calc(100% - 23px) 0, 100% 15%, 100% 85%, calc(100% - 24px) 100%, calc(50% + 8px) 100%, 50% calc(100% - 8px), calc(50% - 8px) 100%, 24px 100%, 0 85%, 0 15%);
         z-index: -1;
     }
 

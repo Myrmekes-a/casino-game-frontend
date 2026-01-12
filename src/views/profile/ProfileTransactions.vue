@@ -192,7 +192,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-top: 25px;
+        margin-top: 24px;
     }
 
     .profile-transactions .transactions-pagination button {

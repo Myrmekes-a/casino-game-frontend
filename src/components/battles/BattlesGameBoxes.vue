@@ -191,7 +191,7 @@
         flex-shrink: 0;
         justify-content: center;
         align-items: center;
-        margin-right: 14px;
+        margin-right: 13px;
     }
 
     .battles-game-element .battles-game-boxes button.button-box  {

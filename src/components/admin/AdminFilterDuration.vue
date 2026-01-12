@@ -118,7 +118,7 @@
       align-items: center;
       padding: 0 14px;
       border-radius: 5px;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 600;
       color: #8bacc8;
       transition: 0.3s ease;
