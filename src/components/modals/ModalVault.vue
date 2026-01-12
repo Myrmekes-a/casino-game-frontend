@@ -500,7 +500,7 @@
 
         .modal-vault {
             width: calc(100vw - 20px);
-            padding: 35px 10px 30px 10px;
+            padding: 35px 10px 30px 11px;
         }
 
     }

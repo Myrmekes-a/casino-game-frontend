@@ -148,7 +148,7 @@
     @media only screen and (max-width: 840px) {
 
         .modal-cashier {
-            width: calc(100vw - 21px);
+            width: calc(100vw - 22px);
             padding: 25px 20px 40px 20px;
         }
 
