@@ -36,7 +36,7 @@
 <style scoped>
     .upgrader-filter-search {
         width: 220px;
-        height: 46px;
+        height: 47px;
         position: relative;
         margin-right: 20px;
         padding: 1px;

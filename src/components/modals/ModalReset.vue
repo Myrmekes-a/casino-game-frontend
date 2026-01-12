@@ -124,7 +124,7 @@
         font-weight: 600;
         color: #ffffff;
         background-color: #072435;
-        clip-path: polygon(14px 0, calc(100% - 14px) 0, 100% 25%, 100% 75%, calc(100% - 14px) 100%, 14px 100%, 0 75%, 0 25%);
+        clip-path: polygon(14px 0, calc(100% - 15px) 0, 100% 25%, 100% 75%, calc(100% - 14px) 100%, 14px 100%, 0 75%, 0 25%);
     }
 
     .modal-reset .element-content input::placeholder {

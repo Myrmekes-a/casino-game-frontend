@@ -131,7 +131,7 @@
     }
 
     .leaderboard .timer-inner svg {
-        width: 29px;
+        width: 28px;
         height: 35px;
         margin-right: 12px;
         fill: #ffffff;

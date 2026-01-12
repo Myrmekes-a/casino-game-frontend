@@ -181,3 +181,5 @@
 ## [2026-01-10] Add account verification status badge
 
 ## [2026-01-12] Fix avatar image upload handler
+
+## [2026-01-12] Implement locale language switcher

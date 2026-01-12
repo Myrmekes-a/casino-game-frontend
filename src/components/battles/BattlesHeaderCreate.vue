@@ -136,7 +136,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 110px auto auto 117px;
-        padding-bottom: 19px;
+        padding-bottom: 18px;
     }
 
     .battles-header-create a.link-back {
