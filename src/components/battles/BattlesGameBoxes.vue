@@ -159,7 +159,7 @@
         justify-content: center;
         align-items: center;
         background: radial-gradient(60% 60% at 50% 50%, rgba(10, 238, 179, 0.2) 0%, rgba(0, 0, 0, 0) 100%), rgba(255, 255, 255, 0.01);
-        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 12px) 100%, 11px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 11px 100%, 0 75%, 0 25%);
     }
 
     .battles-game-boxes .selector-inner svg {

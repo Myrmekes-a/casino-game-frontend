@@ -59,7 +59,7 @@
         width: 100%;
         height: 100%;
         padding: 0 10px 0 43px;
-        font-size: 13px;
+        font-size: 14px;
         font-weight: 600;
         color: #ffffff;
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), 

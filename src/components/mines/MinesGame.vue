@@ -155,7 +155,7 @@
     .mines-game .inner-payout img {
         width: 20px;
         height: 20px;
-        margin-right: 8px;
+        margin-right: 9px;
     }
 
     .mines-game .inner-payout .payout-value {
