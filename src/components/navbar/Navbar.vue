@@ -510,7 +510,7 @@
 
         nav#navbar {
             height: 79px;
-            padding: 0 20px;
+            padding: 0 21px;
             background: rgba(9, 40, 65, 0.48);
             border-bottom: 1px solid rgba(27, 64, 92, 0.35);
         }

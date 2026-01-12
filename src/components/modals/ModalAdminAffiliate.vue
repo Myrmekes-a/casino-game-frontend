@@ -425,7 +425,7 @@
     }
 
     .modal-admin-affiliate .stats-element {
-        width: calc(50% - 17px);
+        width: calc(50% - 18px);
         height: 78px;
         position: relative;
         padding: 1px;

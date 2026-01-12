@@ -69,7 +69,7 @@
 
     .modal-login .login-sidebar img:nth-of-type(1) {
         width: 142px;
-        margin-top: 45px;
+        margin-top: 46px;
     }
 
     .modal-login .login-sidebar img:nth-of-type(2) {

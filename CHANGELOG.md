@@ -183,3 +183,5 @@
 ## [2026-01-12] Fix avatar image upload handler
 
 ## [2026-01-12] Implement locale language switcher
+
+## [2026-01-12] Add geo-restriction landing page
