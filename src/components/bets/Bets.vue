@@ -161,7 +161,7 @@
    .bets .head-game {
        width: 20%;
        font-weight: 700;
-       font-size: 15px;
+       font-size: 14px;
        color: #8bacc8;
    }
 

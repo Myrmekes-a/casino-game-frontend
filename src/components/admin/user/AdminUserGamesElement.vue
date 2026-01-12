@@ -128,7 +128,7 @@
     }
 
     .admin-user-games-element .element-section.section-amount .content-value span {
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 800;
     }
 
