@@ -66,7 +66,7 @@
     }
 
     .unbox-reel .reel-element {
-        width: 104px;
+        width: 103px;
         height: 106px;
         display: flex;
         flex-direction: column;

@@ -167,7 +167,7 @@
     }
 
     .bets-element .element-game svg {
-        margin-right: 10px;
+        margin-right: 9px;
         fill: #bbbfd0;
     }
 

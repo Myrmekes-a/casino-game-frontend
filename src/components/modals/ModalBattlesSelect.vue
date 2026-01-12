@@ -166,7 +166,7 @@
 
     .modal-battles-select button.button-close {
         width: 46px;
-        height: 35px;
+        height: 34px;
         position: absolute;
         top: 15px;
         right: 15px;

@@ -228,7 +228,7 @@
 
     nav#navbar .navbar-left,
     nav#navbar .navbar-right  {
-        width: calc(50% - 176px);
+        width: calc(50% - 177px);
         display: flex;
         align-items: center;
         z-index: 1;
