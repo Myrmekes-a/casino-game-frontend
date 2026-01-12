@@ -268,7 +268,7 @@
     .affiliates-stats .stats-element.element-available .info-amount img {
         width: 19px;
         height: 19px;
-        margin-right: 10px;
+        margin-right: 9px;
     }
 
     .affiliates-stats .stats-element.element-available button.button-claim {

@@ -267,7 +267,7 @@
         position: fixed;
         top: 0;
         right: 0;
-        padding: 17px 0 20px 0;
+        padding: 18px 0 20px 0;
         background: linear-gradient(180deg, #062641 0%, #031422 140%);
         box-shadow: -3px 0px 10px rgba(0, 0, 0, 0.07);
         z-index: 50;
