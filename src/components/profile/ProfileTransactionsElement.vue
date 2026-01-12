@@ -199,7 +199,7 @@
         .profile-transactions-element .method-content,
         .profile-transactions-element .type-content,
         .profile-transactions-element .amount-content {
-            margin-top: 5px;
+            margin-top: 4px;
         }
 
         .profile-transactions-element .element-amount {

@@ -218,7 +218,7 @@
         left: -6px;
         border-left: 7.5px solid transparent;
         border-right: 7.6px solid transparent;
-        border-top: 13px solid #ffffff;
+        border-top: 12px solid #ffffff;
     }
 
     .roll-game .spinner-selector::after {

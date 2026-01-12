@@ -187,3 +187,5 @@
 ## [2026-01-12] Add geo-restriction landing page
 
 ## [2026-01-12] Fix 404 not found error page
+
+## [2026-01-12] Implement scheduled maintenance page

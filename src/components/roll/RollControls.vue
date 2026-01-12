@@ -211,7 +211,7 @@
 
     .roll-controls .amount-buttons button {
         min-width: 45px;
-        height: 32px;
+        height: 33px;
         margin-right: 8px;
         filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.1));
         transition: all .2s;
