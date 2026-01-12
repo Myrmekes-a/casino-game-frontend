@@ -121,7 +121,7 @@
 
     @media only screen and (max-width: 500px) {
         .unbox-reel .element-image img {
-            width: 71px;           
+            width: 70px;           
         }
         .unbox-reel .element-image svg {
             width: 80px;

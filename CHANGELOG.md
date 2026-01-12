@@ -193,3 +193,5 @@
 ## [2026-01-12] Add under-construction notice banner
 
 ## [2026-01-12] Final UI polish and visual cleanup
+
+## [2026-01-12] Refactor shared utility functions

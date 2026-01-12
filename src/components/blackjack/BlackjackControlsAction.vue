@@ -198,7 +198,7 @@
         width: 470px;
         height: 95px;
         position: absolute;
-        top: 36px;
+        top: 37px;
         left: 50%;
         transform: translate(-50%, 0);
         padding: 0 20px;
