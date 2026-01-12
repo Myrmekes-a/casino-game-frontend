@@ -224,7 +224,7 @@
     .modal-vault .vault-stats:before,
     .modal-vault .vault-stats:after {
         content: '';
-        width: calc(50% - 180px);
+        width: calc(50% - 181px);
         height: 1px;
         position: absolute;
         top: 50%;

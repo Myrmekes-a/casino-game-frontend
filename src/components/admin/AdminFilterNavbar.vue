@@ -115,7 +115,7 @@
 
     .admin-filter-navbar .menu-inner a {
         width: 100%;
-        height: 47px;
+        height: 48px;
         display: flex;
         align-items: center;
         padding: 0 15px;
