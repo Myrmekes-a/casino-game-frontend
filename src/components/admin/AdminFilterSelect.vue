@@ -90,7 +90,7 @@
   
     .admin-filter-select button.button-toggle {
         width: 100%;
-        height: 46px;
+        height: 47px;
         display: flex;
         justify-content: space-between;
         align-items: center;
