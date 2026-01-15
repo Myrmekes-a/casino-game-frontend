@@ -86,7 +86,7 @@
     .cashier-filter-amount .amount-min img,
     .cashier-filter-amount .amount-max img {
         width: 11px;
-        height: 11px;
+        height: 10px;
         position: absolute;
         top: 50%;
         left: 10px;

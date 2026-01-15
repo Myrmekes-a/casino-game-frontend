@@ -139,7 +139,7 @@
     }
 
     .unbox-item-element .inner-image img {
-        width: 96px;
+        width: 97px;
     }
 
     .unbox-item-element .inner-name {
