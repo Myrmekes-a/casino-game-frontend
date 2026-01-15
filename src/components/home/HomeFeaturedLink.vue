@@ -128,7 +128,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        bottom: -9px;
+        bottom: -8px;
         left: 50%;
         transform: translate(-50%, 0);
         font-size: 10px;

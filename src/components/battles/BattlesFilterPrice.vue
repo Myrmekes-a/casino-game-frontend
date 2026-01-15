@@ -177,7 +177,7 @@
     @media only screen and (max-width: 750px) {
 
         .battles-filter-price {
-            width: calc(50% - 5px);
+            width: calc(50% - 6px);
             margin-top: 8px;
             margin-right: 10px;
         }

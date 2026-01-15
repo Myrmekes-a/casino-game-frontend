@@ -215,3 +215,5 @@
 ## [2026-01-15] Implement breadcrumb navigation component
 
 ## [2026-01-15] Fix overflow scroll on game grid
+
+## [2026-01-15] Add empty state illustrations
