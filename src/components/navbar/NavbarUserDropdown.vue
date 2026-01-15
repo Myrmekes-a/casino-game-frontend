@@ -313,7 +313,7 @@
 
     .navbar-user-dropdown.dropdown-open .dropdown-menu {
        height: 233px;
-       padding: 0 10px 10px 10px;
+       padding: 0 10px 11px 10px;
     }
 
     .navbar-user-dropdown.dropdown-open .dropdown-menu.menu-admin {

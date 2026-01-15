@@ -152,7 +152,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(255deg, #00ffc2 -25%, #00aa6d 100%);
-        clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
+        clip-path: polygon(8px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
         z-index: -1;
     }
 

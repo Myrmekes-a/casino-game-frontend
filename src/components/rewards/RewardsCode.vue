@@ -149,7 +149,7 @@
         height: 16px;
         position: absolute;
         top: 50%;
-        left: 14px; 
+        left: 13px; 
         transform: translate(0, -50%);
     }
 

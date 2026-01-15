@@ -211,3 +211,5 @@
 ## [2026-01-15] Fix z-index stacking context issues
 
 ## [2026-01-15] Add keyboard navigation support
+
+## [2026-01-15] Implement breadcrumb navigation component

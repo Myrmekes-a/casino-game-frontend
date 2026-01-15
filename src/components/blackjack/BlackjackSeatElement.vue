@@ -327,7 +327,7 @@
 
     .blackjack-seat-element:nth-child(4) .element-game {
         top: -75px;
-        right: 85px;
+        right: 84px;
         transform: rotate(-30deg);
     }
 
