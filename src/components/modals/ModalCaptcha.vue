@@ -109,7 +109,7 @@
 
         .modal-captcha {
             width: calc(100vw - 20px);
-            padding: 86px 20px 48px 20px;
+            padding: 86px 20px 47px 20px;
         }
 
     }

@@ -209,3 +209,5 @@
 ## [2026-01-12] Refactor store action naming conventions
 
 ## [2026-01-15] Fix z-index stacking context issues
+
+## [2026-01-15] Add keyboard navigation support

@@ -178,7 +178,7 @@
     .blackjack-game {
         width: 1090px;
         position: relative;
-        margin-top: 35px;
+        margin-top: 34px;
         padding-bottom: 55px;
     }
 

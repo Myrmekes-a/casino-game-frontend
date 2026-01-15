@@ -56,7 +56,7 @@
         width: 750px;
         display: flex;
         flex-direction: column;
-        margin-top: 90px;
+        margin-top: 89px;
         font-size: 18px;
         font-weight: 300;
         color: #bbbfd0;

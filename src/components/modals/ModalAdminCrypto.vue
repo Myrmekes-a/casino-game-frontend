@@ -211,7 +211,7 @@
     .modal-admin-crypto button.button-cancel {
         width: 190px;
         height: 48px;
-        margin-top: 20px;
+        margin-top: 21px;
     }
 
     .modal-admin-crypto button.button-approve {
