@@ -225,3 +225,5 @@
 ## [2026-01-15] Fix CORS proxy configuration
 
 ## [2026-01-15] Implement token refresh flow
+
+## [2026-01-15] Add remember-me checkbox to login

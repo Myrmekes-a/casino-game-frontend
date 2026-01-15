@@ -155,7 +155,7 @@
         height: 100%;
         display: flex;
         align-items: center;
-        padding-left: 100px;
+        padding-left: 99px;
         font-size: 15px;
         font-weight: 700;
         color: #ffffff;

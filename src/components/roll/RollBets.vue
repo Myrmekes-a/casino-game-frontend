@@ -142,7 +142,7 @@
 
     .roll-bets .header-player svg {
         width: 15px;
-        height: 13px;
+        height: 14px;
         margin-right: 8px;
         fill: #7a93ac;
     }

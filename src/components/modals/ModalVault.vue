@@ -197,7 +197,7 @@
     }
 
     .modal-vault .icon-inner img {
-        width: 74px;
+        width: 75px;
         height: 74px;
     }
 
