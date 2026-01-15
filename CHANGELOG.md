@@ -207,3 +207,5 @@
 ## [2026-01-12] Add loading spinner to async routes
 
 ## [2026-01-12] Refactor store action naming conventions
+
+## [2026-01-15] Fix z-index stacking context issues

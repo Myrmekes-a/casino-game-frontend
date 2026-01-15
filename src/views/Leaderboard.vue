@@ -114,7 +114,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 64px 10px 45px 10px;
+        padding: 64px 11px 45px 10px;
     }
 
     .leaderboard .leaderboard-timer {

@@ -179,7 +179,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, #053236 0%, #01e0a3 100%);
-        clip-path: polygon(9px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 9px 100%, 0 75%, 0 25%);
+        clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 25%, 100% 75%, calc(100% - 9px) 100%, 9px 100%, 0 75%, 0 25%);
         z-index: -1;
     }
 
