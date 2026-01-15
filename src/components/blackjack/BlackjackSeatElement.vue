@@ -417,7 +417,7 @@
 
     .blackjack-seat-element .game-actions button.button-main .button-chip {
         width: 50px;
-        height: 51px;
+        height: 50px;
         position: absolute;
         top: 5px;
         left: 4px;

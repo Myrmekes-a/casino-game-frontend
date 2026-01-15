@@ -362,7 +362,7 @@
         }
 
         .duels-game-roller .amount-value {
-            font-size: 13px;
+            font-size: 12px;
         }
 
         .duels-game-roller .amount-value span {
