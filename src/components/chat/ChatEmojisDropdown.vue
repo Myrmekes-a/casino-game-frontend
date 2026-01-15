@@ -89,7 +89,7 @@
     }
 
     .chat-emojis-dropdown.dropdown-open .dropdown-window {
-       height: 141px;
+       height: 140px;
        padding: 15px 14px 0 15px;
     }
 

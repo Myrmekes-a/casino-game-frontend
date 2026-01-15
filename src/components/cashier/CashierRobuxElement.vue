@@ -157,7 +157,7 @@
     .cashier-robux-element .element-section.section-action .action-placeholder {
         width: 74px;
         text-align: center;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 400;
         color: #bbbfd0;
     }

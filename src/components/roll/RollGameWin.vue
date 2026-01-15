@@ -141,7 +141,7 @@
         justify-content: space-between;
         flex-direction: column;
         align-items: center;
-        padding: 15px 15px 20px 15px;
+        padding: 16px 15px 20px 15px;
         border-radius: 15px;
         background: #001424;
         border: 1px solid rgba(59, 126, 183, 0.5);
