@@ -310,7 +310,7 @@
     }
 
     .rain-join .avatar-inner img {
-        height: 34px;
+        height: 35px;
         transform: translate(0, 5px) scale(-1, 1);
     }
 

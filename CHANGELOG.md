@@ -223,3 +223,5 @@
 ## [2026-01-15] Add retry logic for failed requests
 
 ## [2026-01-15] Fix CORS proxy configuration
+
+## [2026-01-15] Implement token refresh flow
