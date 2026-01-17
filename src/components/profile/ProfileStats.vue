@@ -119,7 +119,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, #04131f 0%, #223a4e 100%);
-        clip-path: polygon(16px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 16px) 100%, 17px 100%, 0 75%, 0 25%);
+        clip-path: polygon(16px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 15px) 100%, 17px 100%, 0 75%, 0 25%);
     }
 
     .profile-stats .stats-element.element-profit .element-amount::before {

@@ -235,3 +235,5 @@
 ## [2026-01-17] Implement forgot password page
 
 ## [2026-01-17] Add reset password screen
+
+## [2026-01-17] Fix deep-link routing for game pages

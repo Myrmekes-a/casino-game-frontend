@@ -112,7 +112,7 @@
 
     .duels-filter-sort .sort-dropdown.dropdown-open .dropdown-menu {
        height: 161px;
-       padding: 0 10px 11px 10px;
+       padding: 0 9px 11px 10px;
     }
 
     .duels-filter-sort .menu-inner {
