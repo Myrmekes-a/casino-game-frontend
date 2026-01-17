@@ -271,7 +271,7 @@
     }
 
     nav#navbar .navbar-left a.link-home {
-        width: 50px;
+        width: 49px;
         height: 50px;
         position: relative;
         margin-right: 10px;

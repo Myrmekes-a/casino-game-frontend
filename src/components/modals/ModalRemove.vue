@@ -53,7 +53,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 35px 0 48px 0;
+        padding: 36px 0 48px 0;
         border-radius: 14px;
         background: radial-gradient(100% 100% at 50% -31.45%, rgba(0, 255, 194, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(255deg, #07263d 0%, #07243a 100%);
     }

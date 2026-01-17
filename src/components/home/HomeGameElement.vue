@@ -112,7 +112,7 @@
 
         a.home-game-element:nth-child(3),
         a.home-game-element:nth-child(4) {
-            margin-top: 15px;
+            margin-top: 14px;
         }
 
         a.home-game-element:nth-child(2n) {
