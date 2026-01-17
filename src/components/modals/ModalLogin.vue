@@ -81,7 +81,7 @@
         width: 100%;
         position: relative;
         margin-top: 42px;
-        padding: 15px 29px;
+        padding: 16px 29px;
         text-align: center;
         background: linear-gradient(255deg, rgba(0, 255, 194, 0.05) 0%, rgba(0, 170, 109, 0.05) 100%);
     }

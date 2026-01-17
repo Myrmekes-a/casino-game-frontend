@@ -295,7 +295,7 @@
         position: relative;
         display: inline-block;
         padding-left: 22px;
-        font-size: 10px;
+        font-size: 9px;
         font-weight: 600;
         color: #bbbfd0;
     }

@@ -338,7 +338,7 @@ export default {
     }
 
     .crash-game .amount-value span {
-        font-size: 24px;
+        font-size: 23px;
         font-weight: 800;
         color: #ffffff;
     }
