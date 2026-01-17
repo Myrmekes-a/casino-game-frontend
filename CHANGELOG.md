@@ -239,3 +239,5 @@
 ## [2026-01-17] Fix deep-link routing for game pages
 
 ## [2026-01-17] Add scroll-to-top on route change
+
+## [2026-01-17] Implement infinite scroll on lobby

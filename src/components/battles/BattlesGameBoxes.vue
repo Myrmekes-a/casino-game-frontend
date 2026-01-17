@@ -199,7 +199,7 @@
     }
 
     .battles-game-boxes button.button-box.button-active {
-        width: 77px;
+        width: 78px;
         margin-right: 11px;
     }
 

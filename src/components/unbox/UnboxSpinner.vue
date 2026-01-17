@@ -151,7 +151,7 @@
                                     if(this.unboxCount === 1) { 
                                         this.unboxReelStyle = { transform: 'translateX(-2665px) translateY(0px)', transition: 'transform 0.25s cubic-bezier(0.1, 0, 0.2, 1)' }; 
                                     } else { 
-                                        this.unboxReelStyle = { transform: 'translateX(0px) translateY(-7450.5px)', transition: 'transform 0.25s cubic-bezier(0.1, 0, 0.2, 1)' };
+                                        this.unboxReelStyle = { transform: 'translateX(0px) translateY(-7450.4px)', transition: 'transform 0.25s cubic-bezier(0.1, 0, 0.2, 1)' };
                                     }
 
                                     cancelAnimationFrame(this.unboxReelsPosRepeater); 
