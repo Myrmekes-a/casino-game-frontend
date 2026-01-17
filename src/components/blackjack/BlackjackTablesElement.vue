@@ -128,7 +128,7 @@
         }
 
         a.blackjack-tables-element:nth-child(5) {
-            margin-top: 11px;
+            margin-top: 12px;
         }
 
         a.blackjack-tables-element:nth-child(5n) {

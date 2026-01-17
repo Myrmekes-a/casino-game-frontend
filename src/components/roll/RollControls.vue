@@ -310,7 +310,7 @@
         height: 51px;
         position: relative;
         margin-right: 12px;
-        filter: drop-shadow(0px 5px 25px rgba(1, 230, 169, 0.15)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35));
+        filter: drop-shadow(0px 5px 24px rgba(1, 230, 169, 0.15)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35));
         transition: all .2s;
     }
 
