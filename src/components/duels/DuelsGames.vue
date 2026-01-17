@@ -148,7 +148,7 @@
 
     .duels-games .all-header::before {
         left: 125px;
-        right: 177px;
+        right: 178px;
     }
 
     .duels-games .header-title {

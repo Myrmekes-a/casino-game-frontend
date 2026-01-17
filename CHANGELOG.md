@@ -245,3 +245,5 @@
 ## [2026-01-17] Add pull-to-refresh on mobile
 
 ## [2026-01-17] Fix touch swipe on slot reels
+
+## [2026-01-17] Add haptic feedback utility
