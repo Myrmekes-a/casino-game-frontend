@@ -247,3 +247,5 @@
 ## [2026-01-17] Fix touch swipe on slot reels
 
 ## [2026-01-17] Add haptic feedback utility
+
+## [2026-01-17] Implement bet history CSV export

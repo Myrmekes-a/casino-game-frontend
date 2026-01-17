@@ -277,7 +277,7 @@
     }
 
     .rewards-rakeback .amount-value {
-        width: 14px;
+        width: 15px;
         margin-right: 6px;
     }
 

@@ -67,7 +67,7 @@
     .modal-remove .remove-message {
         width: 448px;
         position: relative;
-        margin-top: 35px;
+        margin-top: 36px;
         padding: 1px;
     }
 

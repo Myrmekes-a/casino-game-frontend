@@ -92,7 +92,7 @@
     }
 
     .home .home-featured {
-        margin-top: 54px;
+        margin-top: 55px;
     }
 
     .home .home-games {
