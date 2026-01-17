@@ -82,7 +82,7 @@
         top: 0;
         left: 0;
         background: #0a273f;
-        clip-path: polygon(6px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 6px 100%, 0 75%, 0 25%);
+        clip-path: polygon(7px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 6px 100%, 0 75%, 0 25%);
         z-index: -1;
     }
 

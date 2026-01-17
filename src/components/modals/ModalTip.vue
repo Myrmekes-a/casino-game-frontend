@@ -376,7 +376,7 @@
         margin-top: 35px;
         padding: 0 42px;
         text-align: center;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 400;
         color: #49687d;
     }

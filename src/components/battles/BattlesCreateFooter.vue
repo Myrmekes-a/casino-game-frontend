@@ -127,7 +127,7 @@
         height: 15px;
         position: relative;
         margin-left: 12px;
-        filter: drop-shadow(0px 4px 25px rgba(15, 41, 63, 0.35));
+        filter: drop-shadow(0px 5px 25px rgba(15, 41, 63, 0.35));
     }
 
     .battles-create-footer .left-private button:before,

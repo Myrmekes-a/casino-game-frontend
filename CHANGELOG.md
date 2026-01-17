@@ -249,3 +249,5 @@
 ## [2026-01-17] Add haptic feedback utility
 
 ## [2026-01-17] Implement bet history CSV export
+
+## [2026-01-17] Fix CSV download encoding issues
