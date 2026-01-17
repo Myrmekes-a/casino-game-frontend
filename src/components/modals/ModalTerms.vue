@@ -336,7 +336,7 @@
     .modal-terms .terms-list {
         width: 100%;
         height: 600px;
-        padding: 30px 19px 30px 0;
+        padding: 31px 19px 30px 0;
         overflow-x: hidden;
         overflow-y: scroll;
     }

@@ -154,7 +154,7 @@
    @media only screen and (max-width: 1175px) {
 
        body .app-page main {
-           height: calc(100% - 82px);
+           height: calc(100% - 83px);
            top: 81px;
        }
 

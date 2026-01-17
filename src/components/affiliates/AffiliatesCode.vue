@@ -159,7 +159,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 0 35px 0 121px;
-        border-radius: 16px;
+        border-radius: 15px;
     }
 
     .affiliates-code .inner-info {

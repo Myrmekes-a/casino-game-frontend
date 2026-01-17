@@ -120,7 +120,7 @@
                     this.unboxReelsPos = 20;
 
                     if(this.unboxCount === 1) { this.unboxReelStyle = { transform: 'translateX(2535px) translateY(0px)', transition: 'none' }; }
-                    else { this.unboxReelStyle = { transform: 'translateX(0px) translateY(-2450.6px)', transition: 'none' }; }
+                    else { this.unboxReelStyle = { transform: 'translateX(0px) translateY(-2450.7px)', transition: 'none' }; }
                 }
             },
             'unboxGames': {
