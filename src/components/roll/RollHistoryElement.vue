@@ -39,7 +39,7 @@
         height: 36px;
         position: relative;
         flex-shrink: 0;
-        margin-right: 4px;
+        margin-right: 5px;
         transition: all .2s;
     }
     .roll-history-element:hover {
