@@ -223,7 +223,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 11px 20px;
+            padding: 12px 20px;
         }
 
         .admin-users-element .element-user,

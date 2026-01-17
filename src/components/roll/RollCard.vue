@@ -164,7 +164,7 @@
         height: 100%;
         position: relative;
         flex-shrink: 0;
-        margin-right: 4px;
+        margin-right: 5px;
         filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.15));
     }
 

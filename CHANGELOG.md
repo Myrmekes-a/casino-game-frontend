@@ -253,3 +253,5 @@
 ## [2026-01-17] Fix CSV download encoding issues
 
 ## [2026-01-17] Add print stylesheet for statements
+
+## [2026-01-17] Implement affiliate tracking params
