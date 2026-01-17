@@ -251,3 +251,5 @@
 ## [2026-01-17] Implement bet history CSV export
 
 ## [2026-01-17] Fix CSV download encoding issues
+
+## [2026-01-17] Add print stylesheet for statements

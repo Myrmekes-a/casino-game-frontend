@@ -74,7 +74,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 44px 10px;
+        padding: 44px 9px;
     }
 
     .home .home-banner {

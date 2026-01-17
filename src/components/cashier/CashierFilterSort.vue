@@ -139,7 +139,7 @@
 
     .modal-limiteds button.cashier-filter-sort .inner-value span,
     .modal-gift button.cashier-filter-sort .inner-value span {
-        margin-left: 8px;
+        margin-left: 9px;
     }
 
     @media only screen and (max-width: 700px) {

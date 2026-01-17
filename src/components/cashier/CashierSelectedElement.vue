@@ -124,7 +124,7 @@
     }
 
     .cashier-selected-element .element-image {
-        width: 56px;
+        width: 57px;
         height: 57px;
         display: flex;
         flex-wrap: wrap;

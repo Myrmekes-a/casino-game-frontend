@@ -274,7 +274,7 @@
     .affiliates-stats .stats-element.element-available button.button-claim {
         width: 171px;
         height: 44px;
-        filter: drop-shadow(0px 4px 25px rgba(1, 230, 169, 0.15)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35));
+        filter: drop-shadow(0px 5px 25px rgba(1, 230, 169, 0.15)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35));
         transition: all .2s;
     }
 

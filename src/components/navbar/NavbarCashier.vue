@@ -133,7 +133,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 0 7px;
+        padding: 0 6px;
         font-size: 10px;
         font-weight: 800;
         color: #ffffff;
