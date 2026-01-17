@@ -229,3 +229,5 @@
 ## [2026-01-15] Add remember-me checkbox to login
 
 ## [2026-01-17] Fix password strength indicator
+
+## [2026-01-17] Add confirm password field validation

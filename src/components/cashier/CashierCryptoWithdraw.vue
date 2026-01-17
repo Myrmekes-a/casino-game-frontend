@@ -379,7 +379,7 @@
     }
 
     .cashier-crypto-withdraw button.button-withdraw .inner-content {
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 800;
         color: #ffffff;
     }

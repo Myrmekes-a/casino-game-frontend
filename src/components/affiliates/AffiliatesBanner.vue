@@ -76,7 +76,7 @@
         width: 62px;
         height: 62px;
         position: absolute;
-        top: -23px;
+        top: -22px;
         right: -2px;
     }
 
