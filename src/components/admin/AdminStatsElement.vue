@@ -155,7 +155,7 @@
 
     .admin-stats-element .element-section.section-limiteds .content-value,
     .admin-stats-element .element-section.section-robux .content-value {
-        font-size: 10px;
+        font-size: 11px;
         font-weight: 600;
         color: #bbbfd0;
     }

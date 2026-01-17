@@ -243,3 +243,5 @@
 ## [2026-01-17] Implement infinite scroll on lobby
 
 ## [2026-01-17] Add pull-to-refresh on mobile
+
+## [2026-01-17] Fix touch swipe on slot reels

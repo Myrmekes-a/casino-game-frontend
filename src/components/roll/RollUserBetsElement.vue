@@ -40,7 +40,7 @@
 
 <style scoped>
     .roll-user-bets-element {
-        width: calc(25% - 7.5px);
+        width: calc(25% - 7.6px);
         height: 125px;
         display: flex;
         margin-top: 10px;
