@@ -74,7 +74,7 @@
 
     .home-deposit-methods button.button-method {
         width: 12.5%;
-        height: 105px;
+        height: 104px;
         position: relative;
         display: flex;
         flex-direction: column;

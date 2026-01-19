@@ -139,7 +139,7 @@
     @media only screen and (max-width: 1450px) {
 
         .admin-profit-element {
-            width: calc(50% - 15px);
+            width: calc(50% - 14px);
             height: 230px;
             margin-right: 30px;
             border-radius: 15px;

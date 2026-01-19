@@ -161,7 +161,7 @@
 
     footer#footer .info-text span {
         margin-top: 20px;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 700;
     }
 
