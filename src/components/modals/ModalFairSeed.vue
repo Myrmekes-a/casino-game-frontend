@@ -122,7 +122,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 35px 31px 30px 31px;
+        padding: 35px 31px 30px 32px;
         border-radius: 15px;
         background: radial-gradient(100% 100% at 50% 0%, rgba(0, 255, 194, 0.25) 0%, rgba(7, 38, 61, 0) 80%), 
                     linear-gradient(256deg, #07263d 0%, #07243a 100%);

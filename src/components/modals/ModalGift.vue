@@ -97,7 +97,7 @@
 
         .modal-gift {
             width: calc(100vw - 20px);
-            padding: 65px 10px 35px 10px;
+            padding: 65px 10px 35px 11px;
         }
 
     }
