@@ -228,7 +228,7 @@
         font-size: 14px;
         font-weight: 800;
         color: #ffffff;
-        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 7px 100%, 0 75%, 0 25%);
+        clip-path: polygon(8px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 7px 100%, 0 75%, 0 25%);
     }
 
     .modal-admin-crypto button.button-approve .button-inner {

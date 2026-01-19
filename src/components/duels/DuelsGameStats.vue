@@ -118,7 +118,7 @@
     }
 
     .duels-game-stats .amount-value span {
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 800;
         color: #ffffff;
     }

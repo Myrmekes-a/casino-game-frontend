@@ -261,3 +261,5 @@
 ## [2026-01-19] Add A/B test flag utility
 
 ## [2026-01-19] Implement feature flag service
+
+## [2026-01-19] Add remote config fetch on init
