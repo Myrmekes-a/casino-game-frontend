@@ -178,7 +178,7 @@
     @media only screen and (max-width: 550px) {
 
         .app-maintenance {
-            padding: 50px 25px 25px 25px;
+            padding: 50px 24px 25px 25px;
         }
 
         .app-maintenance img {

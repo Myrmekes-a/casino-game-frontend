@@ -79,7 +79,7 @@ fairGetDuelsOutcome();
         width: 100%;
         height: 225px;
         margin-top: 25px;
-        padding: 15px 4px 16px 16px;
+        padding: 15px 4px 15px 16px;
         border-radius: 8px;
         background: #071f2e;
     }

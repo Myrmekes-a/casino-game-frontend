@@ -273,3 +273,5 @@
 ## [2026-01-19] Fix double-submit prevention
 
 ## [2026-01-19] Add optimistic UI for bet placement
+
+## [2026-01-19] Implement rollback on failed bet

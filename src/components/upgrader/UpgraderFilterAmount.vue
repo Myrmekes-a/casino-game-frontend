@@ -115,7 +115,7 @@
     .upgrader-filter-amount button.button-toggle .inner-value {
         display: flex;
         align-items: center;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 600;
         color: #49687d;
     }
