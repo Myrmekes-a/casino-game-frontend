@@ -257,3 +257,5 @@
 ## [2026-01-17] Implement affiliate tracking params
 
 ## [2026-01-19] Fix UTM parameter persistence
+
+## [2026-01-19] Add A/B test flag utility

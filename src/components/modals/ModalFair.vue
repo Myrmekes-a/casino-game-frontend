@@ -150,7 +150,7 @@
         display: flex;
         flex-wrap: wrap;
         margin-top: 30px;
-        padding: 4px;
+        padding: 5px;
         background: #071f2e;
         clip-path: polygon(11px 0, calc(100% - 11px) 0, 100% 14px, 100% calc(100% - 14px), calc(100% - 11px) 100%, 11px 100%, 0 calc(100% - 14px), 0 14px);
     }

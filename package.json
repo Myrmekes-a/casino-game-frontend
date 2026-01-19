@@ -15,7 +15,7 @@
     "axios": "^0.27.1",
     "chart.js": "^3.9.0",
     "core-js": "^3.6.6",
-    "crypto-js": "^4.1.0",
+    "crypto-js": "^4.1.1",
     "nvm": "^0.0.5",
     "qrcode": "^1.5.1",
     "socket.io-client": "^4.6.1",

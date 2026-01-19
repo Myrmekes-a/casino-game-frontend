@@ -250,7 +250,7 @@
 
     .battles-header-create .info-cost img {
         width: 18px;
-        height: 19px;
+        height: 20px;
         margin: 0 9px;
     }
 

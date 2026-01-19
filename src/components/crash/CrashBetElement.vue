@@ -87,7 +87,7 @@
     }
 
     .crash-bet-element .info-multiplier {
-        margin-right: 7px;
+        margin-right: 6px;
         font-size: 12px;
         font-weight: 700;
     }
