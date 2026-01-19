@@ -85,7 +85,7 @@
     }
 
     .notifications-element button.button-close svg {
-        width: 10px;
+        width: 11px;
         height: 9px;
         fill: #75adc2;
     }
