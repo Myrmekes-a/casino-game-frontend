@@ -276,7 +276,7 @@
         }
 
         button.cashier-item-element:nth-child(3n) {
-            margin-right: 8px;
+            margin-right: 7px;
         }
 
         button.cashier-item-element:nth-child(2n) {

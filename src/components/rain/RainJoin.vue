@@ -371,7 +371,7 @@
         margin-right: 8px;
     }
     .rain-join .timer-value {
-        font-size: 10px;
+        font-size: 11px;
         font-weight: 600;
         color: #bbbfd0;
     }

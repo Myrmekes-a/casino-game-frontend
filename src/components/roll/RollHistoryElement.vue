@@ -120,7 +120,7 @@
     }
 
     button.roll-history-element .element-inner span {
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 700;
         color: #bbbfd0;
     }

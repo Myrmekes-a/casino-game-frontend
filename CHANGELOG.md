@@ -265,3 +265,5 @@
 ## [2026-01-19] Add remote config fetch on init
 
 ## [2026-01-19] Fix race condition in store actions
+
+## [2026-01-19] Add debounce to search input
