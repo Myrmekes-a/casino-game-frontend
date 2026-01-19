@@ -111,7 +111,7 @@
     }
 
     .admin-boxes-element .element-section.section-name .section-content {
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 400;
         color: #bbbfd0;
     }
