@@ -74,7 +74,7 @@
         align-items: center;
         top: 1px;
         left: 1px;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 700;
         color: #9e9e9e;
         background: rgba(158, 158, 158, 0.05);

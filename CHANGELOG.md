@@ -263,3 +263,5 @@
 ## [2026-01-19] Implement feature flag service
 
 ## [2026-01-19] Add remote config fetch on init
+
+## [2026-01-19] Fix race condition in store actions

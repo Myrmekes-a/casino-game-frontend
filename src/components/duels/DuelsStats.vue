@@ -170,7 +170,7 @@
     .duels-stats .info-winnings img {
         width: 19px;
         height: 19px;
-        margin-left: 12px;
+        margin-left: 11px;
     }
 
     .duels-stats .buy-value,

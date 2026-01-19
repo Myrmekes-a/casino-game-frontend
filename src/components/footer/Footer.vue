@@ -167,7 +167,7 @@
 
     footer#footer .top-links {
         width: calc(100% - 245px);
-        padding-left: 40px;
+        padding-left: 39px;
         display: flex;
         /* font-family: Rubik; */
     }

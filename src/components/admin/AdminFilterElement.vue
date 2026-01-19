@@ -118,7 +118,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 11px 19px;
+            padding: 11px 20px;
         }
 
         .admin-filter-element .element-section {

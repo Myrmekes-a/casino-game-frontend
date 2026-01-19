@@ -297,7 +297,7 @@
         width: 448px;
         height: 72px;
         position: relative;
-        margin-top: 35px;
+        margin-top: 34px;
         padding: 1px;
     }
 
