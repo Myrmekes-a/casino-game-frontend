@@ -168,7 +168,7 @@
         font-weight: 600;
         color: #ffffff;
         background-color: #07253a;
-        clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 10px 100%, 0 75%, 0 25%);
+        clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 9px 100%, 0 75%, 0 25%);
     }
 
     .duels-controls .actions-amount input::placeholder {

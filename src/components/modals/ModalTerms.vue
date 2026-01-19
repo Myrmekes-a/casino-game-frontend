@@ -405,7 +405,7 @@
     @media only screen and (max-width: 700px) {
 
         .modal-terms {
-            padding: 80px 15px 0 15px;
+            padding: 81px 15px 0 15px;
         }
 
     }

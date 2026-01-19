@@ -314,7 +314,7 @@
         justify-content: center;
         align-items: center;
         padding: 0 12px 0 44px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 600;
         color: #ffffff;
         background-color: transparent;
