@@ -293,3 +293,5 @@
 ## [2026-01-21] Fix number format per locale
 
 ## [2026-01-21] Implement RTL layout support
+
+## [2026-01-21] Add Arabic font stack

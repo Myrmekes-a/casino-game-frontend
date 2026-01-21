@@ -184,7 +184,7 @@
     .cashier-limited-selected .content-list {
         width: 100%;
         height: calc(100% - 71px);
-        padding: 0 15px;
+        padding: 0 14px;
         overflow: scroll;
     }
 

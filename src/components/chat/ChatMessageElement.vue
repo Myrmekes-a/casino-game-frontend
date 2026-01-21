@@ -369,7 +369,7 @@
 
     .chat-message-element button.button-user span.user-username {
         max-width: 120px;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 700;
         color: #ffffff;
         white-space: nowrap;
