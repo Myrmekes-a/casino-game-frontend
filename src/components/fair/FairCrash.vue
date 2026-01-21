@@ -93,7 +93,7 @@ fairGetCrashOutcome();
         width: 100%;
         height: 225px;
         margin-top: 25px;
-        padding: 16px 5px 17px 15px;
+        padding: 16px 5px 17px 16px;
         border-radius: 7px;
         background: #071f2e;
     }

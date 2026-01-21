@@ -72,7 +72,7 @@
 
     .modal-admin-confirm button.button-confirm {
         width: 200px;
-        height: 49px;
+        height: 48px;
         margin-top: 20px;
         filter: drop-shadow(0px 4px 26px rgba(1, 230, 169, 0.15)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.35));
     }
