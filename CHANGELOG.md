@@ -287,3 +287,5 @@
 ## [2026-01-21] Fix timestamp timezone conversion
 
 ## [2026-01-21] Implement user timezone detection
+
+## [2026-01-21] Add calendar date localisation
