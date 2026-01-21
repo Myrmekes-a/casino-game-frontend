@@ -99,7 +99,7 @@
 
     .modal-captcha .captcha-content {
         width: 303px;
-        height: 76px;
+        height: 77px;
         margin-top: 35px;
         border-radius: 4px;
         background-color: #1a4f63;

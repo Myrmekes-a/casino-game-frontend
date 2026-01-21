@@ -75,7 +75,7 @@
     .duels-game-stats .stats-buy,
     .duels-game-stats .stats-winnings {
         position: relative;
-        margin-right: 15px;
+        margin-right: 16px;
         padding-right: 15px;
     }
 

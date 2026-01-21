@@ -283,3 +283,5 @@
 ## [2026-01-21] Implement live odds feed integration
 
 ## [2026-01-21] Add live score ticker component
+
+## [2026-01-21] Fix timestamp timezone conversion

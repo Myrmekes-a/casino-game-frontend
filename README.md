@@ -21,4 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Notes
 
-Built with Vue 2, Vuex and Vue Router. Requires Node 18. Run npm install then npm run dev.
+Vue 2 frontend with WebSocket support. Requires Node 18. Use npm run build for production.
