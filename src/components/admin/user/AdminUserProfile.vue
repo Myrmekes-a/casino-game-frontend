@@ -289,7 +289,7 @@
     }
 
     .admin-user-profile .stats-element:last-of-type {
-        margin-top: 35px;
+        margin-top: 36px;
     }
 
     .admin-user-profile .stats-element::before {

@@ -454,7 +454,7 @@
     aside#chat .loading-placeholder {
         width: 100%;
         margin-top: 15px;
-        padding-bottom: 15px;
+        padding-bottom: 14px;
         border-bottom: 1px solid #0e3350;
     }
 
