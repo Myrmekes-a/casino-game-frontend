@@ -299,3 +299,5 @@
 ## [2026-01-21] Fix icon mirroring for RTL mode
 
 ## [2026-01-21] Implement high-contrast theme
+
+## [2026-01-21] Add reduced-motion media query

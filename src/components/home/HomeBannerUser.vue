@@ -234,7 +234,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, rgba(6, 36, 61, 0) 0%, #9e9e9e 100%);
-        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 7px 100%, 0 75%, 0 25%);
+        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 8px 100%, 0 75%, 0 25%);
     }
 
     .home-banner-user .inner-auth.auth-blue .level-box::before {

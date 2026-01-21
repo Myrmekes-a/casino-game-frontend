@@ -260,7 +260,7 @@
 
         .affiliates-referred-element .earned-content,
         .affiliates-referred-element .deposited-content {
-            margin-top: 5px;
+            margin-top: 6px;
         }
 
     }
