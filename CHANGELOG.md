@@ -277,3 +277,5 @@
 ## [2026-01-19] Implement rollback on failed bet
 
 ## [2026-01-21] Add WebSocket connection manager
+
+## [2026-01-21] Fix reconnect backoff strategy

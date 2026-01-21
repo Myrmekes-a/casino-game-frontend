@@ -58,7 +58,7 @@
         top: 1px;
         left: 1px;
         background: #063141;
-        clip-path: polygon(5px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 5px 100%, 0 75%, 0 25%);
+        clip-path: polygon(5px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 5px 100%, 0 75%, 0 25%);
     }
 
     .chat-message-element .box-level::after {
