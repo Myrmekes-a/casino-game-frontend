@@ -104,7 +104,7 @@
     }
 
     .admin-filter-sort button.button-toggle .button-value {
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 600;
         color: #49687d;
     }

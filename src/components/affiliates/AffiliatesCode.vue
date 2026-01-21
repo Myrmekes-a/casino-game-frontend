@@ -158,7 +158,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0 35px 0 121px;
+        padding: 0 36px 0 121px;
         border-radius: 15px;
     }
 

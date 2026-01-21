@@ -289,3 +289,5 @@
 ## [2026-01-21] Implement user timezone detection
 
 ## [2026-01-21] Add calendar date localisation
+
+## [2026-01-21] Fix number format per locale
