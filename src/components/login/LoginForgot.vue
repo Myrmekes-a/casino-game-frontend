@@ -102,7 +102,7 @@
         font-weight: 600;
         color: #ffffff;
         background-color: #072435;
-        clip-path: polygon(16px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 16px) 100%, 16px 100%, 0 75%, 0 25%);
+        clip-path: polygon(16px 0, calc(100% - 16px) 0, 100% 25%, 100% 75%, calc(100% - 16px) 100%, 17px 100%, 0 75%, 0 25%);
     }
 
     .login-forgot .element-input input::placeholder {

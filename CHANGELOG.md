@@ -279,3 +279,5 @@
 ## [2026-01-21] Add WebSocket connection manager
 
 ## [2026-01-21] Fix reconnect backoff strategy
+
+## [2026-01-21] Implement live odds feed integration

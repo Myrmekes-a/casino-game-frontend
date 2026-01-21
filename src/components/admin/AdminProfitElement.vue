@@ -142,7 +142,7 @@
             width: calc(50% - 14px);
             height: 230px;
             margin-right: 30px;
-            border-radius: 15px;
+            border-radius: 14px;
         }
 
         .admin-profit-element:nth-child(1),
