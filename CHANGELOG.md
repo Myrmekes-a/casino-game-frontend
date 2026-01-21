@@ -291,3 +291,5 @@
 ## [2026-01-21] Add calendar date localisation
 
 ## [2026-01-21] Fix number format per locale
+
+## [2026-01-21] Implement RTL layout support

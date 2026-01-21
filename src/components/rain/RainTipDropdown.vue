@@ -223,7 +223,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 31px 14px 15px 14px;
+        padding: 32px 14px 15px 14px;
         border-radius: 15px;
         background: radial-gradient(163.2% 163.2% at 50% -31.45%, rgba(0, 255, 194, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(256.23deg, #07263d 0%, #07243a 100%);
         box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);

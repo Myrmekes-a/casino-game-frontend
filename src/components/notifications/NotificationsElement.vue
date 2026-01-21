@@ -122,7 +122,7 @@
         height: 100%;
         display: flex;
         align-items: center;
-        padding: 0 27px 0 17px;
+        padding: 0 28px 0 17px;
         font-size: 15px;
         font-weight: 700;
         color: #7a93ac;
