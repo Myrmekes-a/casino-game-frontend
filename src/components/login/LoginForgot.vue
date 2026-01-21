@@ -80,7 +80,7 @@
         position: relative;
         margin-top: 20px;
         padding: 1px;
-        filter: drop-shadow(0px 4px 25px rgba(15, 41, 63, 0.35));
+        filter: drop-shadow(0px 5px 25px rgba(15, 41, 63, 0.35));
     }
 
     .login-forgot .element-input::before {

@@ -77,7 +77,7 @@
         width: 100%;
         display: flex;
         align-items: center;
-        padding-bottom: 25px;
+        padding-bottom: 26px;
         border-bottom: 1px solid #335361;
     }
 

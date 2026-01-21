@@ -173,7 +173,7 @@
         }
 
         .unbox-overview .loading-placeholder:nth-child(5n) {
-            margin-right: 9px;
+            margin-right: 8px;
         }
 
         .unbox-overview .loading-placeholder:nth-child(4n) {
