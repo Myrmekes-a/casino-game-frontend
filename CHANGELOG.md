@@ -275,3 +275,5 @@
 ## [2026-01-19] Add optimistic UI for bet placement
 
 ## [2026-01-19] Implement rollback on failed bet
+
+## [2026-01-21] Add WebSocket connection manager

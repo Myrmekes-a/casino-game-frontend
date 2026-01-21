@@ -154,7 +154,7 @@
         display: flex;
         flex-direction: column;
         margin-top: 20px;
-        font-size: 12px;
+        font-size: 13px;
         font-weight: 400;
         color: #627382;
     }

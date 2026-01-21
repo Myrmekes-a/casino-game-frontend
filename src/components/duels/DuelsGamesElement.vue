@@ -333,7 +333,7 @@
         }
 
         button.duels-games-element:nth-child(3n) {
-            margin-right: 20px;
+            margin-right: 19px;
         }
 
         button.duels-games-element:nth-child(2n) {
