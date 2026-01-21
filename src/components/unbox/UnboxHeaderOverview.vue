@@ -147,7 +147,7 @@
         height: 1px;
         position: absolute;
         left: 0;
-        bottom: -27px;
+        bottom: -28px;
         background: linear-gradient(146deg, #6170f1 0%, #1c47b6 100%);
     }
 

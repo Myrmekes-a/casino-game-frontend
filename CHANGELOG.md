@@ -295,3 +295,5 @@
 ## [2026-01-21] Implement RTL layout support
 
 ## [2026-01-21] Add Arabic font stack
+
+## [2026-01-21] Fix icon mirroring for RTL mode

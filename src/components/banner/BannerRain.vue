@@ -145,7 +145,7 @@
         top: 0;
         left: 0;
         background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #01e1a4 100%);
-        clip-path: polygon(5px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 6px 100%, 0 75%, 0 25%);
+        clip-path: polygon(4px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 6px) 100%, 6px 100%, 0 75%, 0 25%);
     }
 
     .banner-rain .text-header button.button-tip .button-inner {
