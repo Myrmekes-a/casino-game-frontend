@@ -68,7 +68,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0 20px;
+      padding: 0 21px;
       border-radius: 6px;
       background: rgba(19, 66, 88, 0.25);
   }

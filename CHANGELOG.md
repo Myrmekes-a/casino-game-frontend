@@ -317,3 +317,5 @@
 ## [2026-01-23] Update blackjack card flip timing
 
 ## [2026-01-23] Improve unbox spinner centering
+
+## [2026-01-23] Adjust duels matchup layout gap
