@@ -239,7 +239,7 @@
 
     .admin-user-profile .profile-id {
         margin-top: 5px;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 400;
         color: #db7d48;
     }

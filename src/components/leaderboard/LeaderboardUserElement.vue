@@ -377,7 +377,7 @@
             width: 100%;
             grid-column: 3;
             grid-row: 2;
-            margin-top: 20px;
+            margin-top: 21px;
         }
 
         .leaderboard-user-element .prize-title,

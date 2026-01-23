@@ -90,7 +90,7 @@ fairGetTowersOutcome();
     }
 
     .fair-towers .towers-text p {
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 600;
         color: #bbbfd0;
     }
