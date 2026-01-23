@@ -266,7 +266,7 @@
     }
 
     .navbar-user-dropdown .rank-box {
-        width: 22px;
+        width: 23px;
         height: 16px;
         position: relative;
         margin-left: 6px;

@@ -111,7 +111,7 @@
         height: 50px;
         position: relative;
         padding: 1px;
-        filter: drop-shadow(0px 4px 26px rgba(59, 126, 183, 0.38));
+        filter: drop-shadow(0px 5px 26px rgba(59, 126, 183, 0.38));
         z-index: 2;
     }
 
