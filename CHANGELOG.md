@@ -319,3 +319,5 @@
 ## [2026-01-23] Improve unbox spinner centering
 
 ## [2026-01-23] Adjust duels matchup layout gap
+
+## [2026-01-23] Fix roll result animation offset

@@ -386,7 +386,7 @@
 
     nav#navbar .navbar-right button.button-toggle {
         width: 36px;
-        height: 28px;
+        height: 27px;
         display: none;
         filter: drop-shadow(0px 1.8px 1.8px rgba(0, 0, 0, 0.10));
     }

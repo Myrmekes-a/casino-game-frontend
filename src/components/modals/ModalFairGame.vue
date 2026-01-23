@@ -197,7 +197,7 @@
     }
 
     .modal-fair-game .group-element {
-        width: calc(50% - 8px);
+        width: calc(50% - 7px);
     }
 
     .modal-fair-game .element-title {
