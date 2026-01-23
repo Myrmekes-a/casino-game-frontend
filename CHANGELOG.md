@@ -323,3 +323,5 @@
 ## [2026-01-23] Fix roll result animation offset
 
 ## [2026-01-23] Refactor upgrader wheel positioning
+
+## [2026-01-23] Polish battles game element padding

@@ -88,7 +88,7 @@
 
     button.upgrader-filter-sort .inner-value svg {
         width: 12px;
-        margin-right: 8px;
+        margin-right: 7px;
         fill: #01e0a3;
     }
 

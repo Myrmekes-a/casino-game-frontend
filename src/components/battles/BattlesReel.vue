@@ -131,7 +131,7 @@
     .battles-reel .info-amount img {
         width: 18px;
         height: 18px;
-        margin-right: 8px;
+        margin-right: 7px;
     }
 
     .battles-reel .amount-value {

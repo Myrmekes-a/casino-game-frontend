@@ -165,7 +165,7 @@
     }
 
     .blackjack-controls-bet .container-amount button {
-        width: 63px;
+        width: 64px;
         height: 63px;
         display: flex;
         justify-content: center;
