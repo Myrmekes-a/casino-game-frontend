@@ -176,7 +176,7 @@
     .duels-stats .buy-value,
     .duels-stats .winnings-value,
     .duels-stats .edge-value {
-        margin-left: 8px;
+        margin-left: 9px;
         font-size: 10px;
         font-weight: 600;
         color: #c1c1c1;

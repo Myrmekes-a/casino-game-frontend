@@ -311,3 +311,5 @@
 ## [2026-01-23] Adjust crash controls panel spacing
 
 ## [2026-01-23] Tweak mines grid cell sizing
+
+## [2026-01-23] Fix towers level indicator margin

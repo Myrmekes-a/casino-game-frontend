@@ -32,7 +32,7 @@
     .unbox-item-element {
         width: calc(14.28% - 5.14px);
         position: relative;
-        margin-bottom: 7px;
+        margin-bottom: 6px;
         margin-right: 7px;
         padding: 1px;
         z-index: 1;

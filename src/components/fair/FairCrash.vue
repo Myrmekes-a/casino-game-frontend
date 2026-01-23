@@ -92,7 +92,7 @@ fairGetCrashOutcome();
     .fair-crash .crash-code {
         width: 100%;
         height: 225px;
-        margin-top: 25px;
+        margin-top: 26px;
         padding: 16px 5px 17px 16px;
         border-radius: 7px;
         background: #071f2e;
