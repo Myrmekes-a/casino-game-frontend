@@ -176,7 +176,7 @@
     }
 
     .modal-admin-crypto .crypto-element.element-currency .content-inner {
-        padding: 0 15px 0 44px;
+        padding: 0 14px 0 44px;
     }
 
     .modal-admin-crypto .element-content input::placeholder {

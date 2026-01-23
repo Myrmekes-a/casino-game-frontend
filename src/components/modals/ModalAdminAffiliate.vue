@@ -371,7 +371,7 @@
         width: 15px;
         height: 15px;
         position: absolute;
-        top: 9px;
+        top: 8px;
         left: 15px;
     }
 
