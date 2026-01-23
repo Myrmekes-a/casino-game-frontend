@@ -190,7 +190,7 @@ export default {
     .crash-game .game-graph {
         position: absolute;
         top: 19px;
-        bottom: 5px;
+        bottom: 4px;
         left: 5px;
         right: 5px;
     }

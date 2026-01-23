@@ -218,7 +218,7 @@
     }
 
     .blackjack-controls-bet .container-buttons button.button-clear {
-        width: 57px;
+        width: 56px;
         margin-right: 10px;
     }
 
