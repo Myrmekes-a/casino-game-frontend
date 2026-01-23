@@ -185,7 +185,7 @@
         .profile-transactions-element .element-method,
         .profile-transactions-element .element-type,
         .profile-transactions-element .element-amount {
-            margin-top: 10px;
+            margin-top: 11px;
         }
 
         .profile-transactions-element .date-title,

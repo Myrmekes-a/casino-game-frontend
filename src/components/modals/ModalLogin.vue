@@ -169,7 +169,7 @@
     .modal-login button.button-roblox {
         width: 100%; 
         height: 54px;
-        margin-top: 35px;
+        margin-top: 36px;
         transition: all;
         transition-duration: 0.2s;
     }

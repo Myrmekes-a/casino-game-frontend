@@ -191,7 +191,7 @@
     .cashier-limited-selected .content-button {
         width: 100%;
         position: relative;
-        margin-top: 5px;
+        margin-top: 6px;
         padding: 25px 26px 0 25px;
     }
 
