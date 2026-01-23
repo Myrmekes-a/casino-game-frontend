@@ -95,7 +95,7 @@
 
     .chat-emojis-dropdown .window-inner {
         width: 295px;
-        height: 110px;
+        height: 111px;
         position: relative;
         margin-bottom: 14px;
         padding: 13px;

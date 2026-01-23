@@ -105,7 +105,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 800;
         color: #ffffff;
         background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 75%);

@@ -227,7 +227,7 @@
         }
 
         .leaderboard-banner .banner-inner {
-            padding: 0 10px 20px 10px;
+            padding: 0 10px 19px 10px;
         }
 
     }

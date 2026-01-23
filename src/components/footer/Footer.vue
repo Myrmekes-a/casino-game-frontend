@@ -187,7 +187,7 @@
         position: relative;
         padding-right: 40px;
         margin-bottom: 21px;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 700;
         color: #bbbfd0;
     }
