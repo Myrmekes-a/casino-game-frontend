@@ -305,3 +305,5 @@
 ## [2026-01-21] Fix focus ring visibility
 
 ## [2026-01-23] Implement skip-to-content link
+
+## [2026-01-23] Add screen reader live announcements

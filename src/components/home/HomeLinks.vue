@@ -217,7 +217,7 @@
 
     .home-links .bottom-socials a {
         width: 51px;
-        height: 37px;
+        height: 36px;
         margin-right: 15px;
     }
 

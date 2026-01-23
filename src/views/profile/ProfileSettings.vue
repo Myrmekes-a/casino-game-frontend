@@ -144,7 +144,7 @@
 
     .profile-settings .settings-section {
         width: 100%;
-        margin-top: 24px;
+        margin-top: 23px;
     }
 
     .profile-settings .settings-section:first-child {

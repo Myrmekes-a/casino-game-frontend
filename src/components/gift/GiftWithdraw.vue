@@ -124,7 +124,7 @@
     .gift-withdraw .filter-search svg {
         position: absolute;
         top: 50%;
-        left: 20px;
+        left: 21px;
         transform: translate(0, -50%);
         fill: #49687d;
     }
