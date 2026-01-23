@@ -115,7 +115,7 @@
     }
 
     .duels-controls .controls-title {
-        height: 50px;
+        height: 49px;
         display: flex;
         align-items: center;
     }

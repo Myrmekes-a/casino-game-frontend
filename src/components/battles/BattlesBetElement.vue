@@ -315,7 +315,7 @@
     }
 
     .battles-bet-element .info-amount img {
-        width: 18px;
+        width: 19px;
         height: 18px;
         margin-right: 8px;
     }

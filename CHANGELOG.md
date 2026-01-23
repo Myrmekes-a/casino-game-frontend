@@ -315,3 +315,5 @@
 ## [2026-01-23] Fix towers level indicator margin
 
 ## [2026-01-23] Update blackjack card flip timing
+
+## [2026-01-23] Improve unbox spinner centering

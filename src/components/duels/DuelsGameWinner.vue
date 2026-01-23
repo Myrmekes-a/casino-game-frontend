@@ -71,7 +71,7 @@
         flex-direction: column;
         align-items: center;
         margin-top: 25px;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 800;
     }
 
