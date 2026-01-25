@@ -32,7 +32,7 @@
         width: calc(25% - 3px);
         position: relative;
         margin-bottom: 5px;
-        margin-right: 4px;
+        margin-right: 5px;
         padding: 1px;
         z-index: 1;
     }

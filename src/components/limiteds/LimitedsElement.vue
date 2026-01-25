@@ -83,7 +83,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        border-radius: 20px;
+        border-radius: 21px;
         border: 1px solid rgba(22, 83, 95, 0.5);
         z-index: -1;
     }
