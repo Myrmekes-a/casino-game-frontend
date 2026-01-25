@@ -224,7 +224,7 @@
 
         .modal-blackjack-rules .element-info {
             width: 100%;
-            margin-top: 5px;
+            margin-top: 6px;
             padding-left: 0;
         }
 

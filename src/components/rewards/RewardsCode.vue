@@ -182,7 +182,7 @@
         font-weight: 800;
         color: #ffffff;
         background: #fca311;
-        clip-path: polygon(5px 0, calc(100% - 5px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 5px 100%, 0 75%, 0 25%);
+        clip-path: polygon(5px 0, calc(100% - 6px) 0, 100% 25%, 100% 75%, calc(100% - 5px) 100%, 5px 100%, 0 75%, 0 25%);
     }
 
     .rewards-code .input-info {

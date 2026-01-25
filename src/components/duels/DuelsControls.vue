@@ -143,7 +143,7 @@
         width: 350px;
         height: 50px;
         position: relative;
-        margin-right: 26px;
+        margin-right: 25px;
     }
 
     .duels-controls .actions-amount::before {

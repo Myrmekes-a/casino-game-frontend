@@ -339,3 +339,5 @@
 ## [2026-01-25] Refine README dev instructions
 
 ## [2026-01-25] Update index.html meta keywords
+
+## [2026-01-25] Bump socket.io-client patch version

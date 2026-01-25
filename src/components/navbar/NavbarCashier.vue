@@ -85,7 +85,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0 25px 0 14px;
+        padding: 0 26px 0 14px;
         font-size: 16px;
         font-weight: 800;
         color: #ffffff;
