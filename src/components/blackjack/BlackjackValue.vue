@@ -83,7 +83,7 @@
         justify-content: center;
         align-items: center;
         background: #023b33;
-        clip-path: polygon(7px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 6px 100%, 0 75%, 0 25%);
+        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 6px 100%, 0 75%, 0 25%);
     }
 
     .blackjack-value.value-won .value-inner {

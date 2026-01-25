@@ -118,7 +118,7 @@
     .mines-game .win-inner {
         width: 100%;
         height: 100%;
-        padding: 26px 29px;
+        padding: 25px 29px;
         border-radius: 18px;
         background: rgba(3, 20, 33, 0.88);
     }

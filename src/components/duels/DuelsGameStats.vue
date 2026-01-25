@@ -107,7 +107,7 @@
 
     .duels-game-stats .stats-players svg {
         width: 17px;
-        height: 19px;
+        height: 18px;
     }
 
     .duels-game-stats .amount-value {

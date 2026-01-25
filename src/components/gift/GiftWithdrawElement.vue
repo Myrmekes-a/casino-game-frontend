@@ -45,7 +45,7 @@
         height: 235px;
         position: relative;
         margin-top: 9px;
-        margin-right: 10px;
+        margin-right: 11px;
         padding: 1px;
         z-index: 1;
     }
