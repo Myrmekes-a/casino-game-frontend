@@ -121,7 +121,7 @@
     }
 
     .home-banner-news .news-inner button.button-previous {
-        border-radius: 17px 0 0 16px;
+        border-radius: 16px 0 0 16px;
     }
 
     .home-banner-news .news-inner button.button-next {

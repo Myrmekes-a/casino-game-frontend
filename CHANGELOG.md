@@ -343,3 +343,5 @@
 ## [2026-01-25] Bump socket.io-client patch version
 
 ## [2026-01-25] Update package scripts section
+
+## [2026-01-25] Revise README project description

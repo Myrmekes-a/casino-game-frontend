@@ -108,7 +108,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 50px 0 12px 0;
+        padding: 50px 0 13px 0;
         background-color: #00111f;
     }
 

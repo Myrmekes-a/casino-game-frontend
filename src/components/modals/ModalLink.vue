@@ -159,7 +159,7 @@
         font-weight: 800;
         color: #ffffff;
         background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 100%);
-        clip-path: polygon(11px 0, calc(100% - 12px) 0, 100% 25%, 100% 75%, calc(100% - 11px) 100%, 10px 100%, 0 75%, 0 25%);
+        clip-path: polygon(11px 0, calc(100% - 12px) 0, 100% 25%, 100% 75%, calc(100% - 10px) 100%, 10px 100%, 0 75%, 0 25%);
     }
 
     @media only screen and (max-width: 793px) {
