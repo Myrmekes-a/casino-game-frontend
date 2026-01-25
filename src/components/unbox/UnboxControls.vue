@@ -98,7 +98,7 @@
 
     .unbox-controls .controls-count button {
         width: 48px;
-        height: 44px;
+        height: 45px;
         position: relative;
         margin-right: 5px;
         padding: 1px;

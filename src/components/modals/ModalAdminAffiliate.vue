@@ -346,7 +346,7 @@
     .modal-admin-affiliate .settings-element.element-toggle button::after {
         content: '';
         width: 25px;
-        height: 18px;
+        height: 17px;
         position: absolute;
         top: -2px;
         left: 0;

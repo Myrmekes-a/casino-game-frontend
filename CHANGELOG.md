@@ -347,3 +347,5 @@
 ## [2026-01-25] Revise README project description
 
 ## [2026-01-25] Bump vue-router patch version
+
+## [2026-01-25] Update index.html page description

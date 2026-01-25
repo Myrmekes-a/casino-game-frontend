@@ -108,7 +108,7 @@
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-        margin-left: 10px;
+        margin-left: 11px;
     }
 
     .battles-reel .element-info span {
