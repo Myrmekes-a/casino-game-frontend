@@ -159,7 +159,7 @@
     @media only screen and (max-width: 990px) {
 
         .modal-chat-rules {
-            width: calc(100vw - 20px);
+            width: calc(100vw - 21px);
             padding: 85px 20px 0 0;
         }
 

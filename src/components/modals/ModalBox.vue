@@ -91,7 +91,7 @@
 
     .modal-box button.button-close {
         width: 46px;
-        height: 35px;
+        height: 36px;
         position: absolute;
         top: 15px;
         right: 15px;

@@ -359,7 +359,7 @@ border-radius: 10px;
         }
 
         .towers-row .row-tile {
-            width: calc(33.33% - 6px);
+            width: calc(33.33% - 7px);
         }
 
     }

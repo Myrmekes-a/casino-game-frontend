@@ -172,7 +172,7 @@
         align-items: center;
         margin-right: 25px;
         border-radius: 50%;
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 800;
         color: #ffffff;
         filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.75));

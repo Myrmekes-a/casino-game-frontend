@@ -341,3 +341,5 @@
 ## [2026-01-25] Update index.html meta keywords
 
 ## [2026-01-25] Bump socket.io-client patch version
+
+## [2026-01-25] Update package scripts section
