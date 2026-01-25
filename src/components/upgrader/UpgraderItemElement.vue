@@ -124,7 +124,7 @@
     @media only screen and (max-width: 1100px) {
 
         .upgrader-item-element {
-            width: calc(33.33% - 2.66px);
+            width: calc(33.33% - 2.65px);
         }
 
         .upgrader-item-element:nth-child(4n) {

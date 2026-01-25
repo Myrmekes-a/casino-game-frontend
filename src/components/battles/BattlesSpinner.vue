@@ -353,7 +353,7 @@
 
     .battles-spinner .waiting-info {
         width: 330px;
-        height: 110px;
+        height: 109px;
         position: relative;
         padding: 1px;
     }

@@ -218,7 +218,7 @@
         align-items: center;
         margin-bottom: 12px;
         /* font-family: Rubik; */
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 700;
         color: #9ab6ff;
     }
