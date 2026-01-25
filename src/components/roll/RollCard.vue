@@ -257,7 +257,7 @@
 
     .roll-card .inner-win {
         height: calc(100% - 46px);
-        margin-top: 8px;
+        margin-top: 7px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;

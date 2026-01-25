@@ -351,3 +351,5 @@
 ## [2026-01-25] Update index.html page description
 
 ## [2026-01-25] Bump vuex patch version
+
+## [2026-01-25] Clean up package.json formatting

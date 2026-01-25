@@ -207,7 +207,7 @@
     }
 
     .modal-mute .avatar-content {
-        width: 95px;
+        width: 96px;
         height: 95px;
         display: flex;
         justify-content: center;

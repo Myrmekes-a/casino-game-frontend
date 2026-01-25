@@ -134,7 +134,7 @@
         position: relative;
         margin-left: 17px;
         padding: 1px;
-        filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.35)) drop-shadow(0px 2px 10px rgba(1, 230, 169, 0.15)) drop-shadow(0px 4px 25px rgba(15, 41, 63, 0.35));
+        filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.35)) drop-shadow(0px 2px 10px rgba(1, 230, 169, 0.15)) drop-shadow(0px 5px 25px rgba(15, 41, 63, 0.35));
     }
 
     .banner-rain .text-header button.button-tip::before {

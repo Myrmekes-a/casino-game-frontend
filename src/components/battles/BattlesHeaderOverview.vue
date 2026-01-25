@@ -143,7 +143,7 @@
         height: 100%;
         display: flex;
         align-items: center;
-        padding: 0 25px;
+        padding: 0 26px;
         background: #04192a;
         clip-path: polygon(8px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
     }

@@ -155,7 +155,7 @@
 
         a.home-featured-link {
             width: calc(50% - 8px);
-            margin-top: 20px;
+            margin-top: 21px;
         }
 
         a.home-featured-link:nth-child(2n) {
