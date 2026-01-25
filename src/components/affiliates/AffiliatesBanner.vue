@@ -52,7 +52,7 @@
     .affiliates-banner .banner-icons img:nth-child(2) {
         width: 66px;
         position: absolute;
-        top: -21px;
+        top: -22px;
         left: 387px;
     }
 

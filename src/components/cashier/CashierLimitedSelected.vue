@@ -111,7 +111,7 @@
 
     .cashier-limited-selected button.button-open {
         width: 49px;
-        height: 50px;
+        height: 49px;
         position: absolute;
         display: none;
         bottom: 50px;

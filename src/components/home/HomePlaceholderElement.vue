@@ -107,7 +107,7 @@
     @media only screen and (max-width: 1050px) {
 
         .home-placeholder-element {
-            width: calc(25% - 11.25px);
+            width: calc(25% - 11.26px);
             margin-right: 15px;
         }
 
