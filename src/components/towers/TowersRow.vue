@@ -340,7 +340,7 @@ border-radius: 10px;
         width: 46px;
         height: auto;
         position: absolute;
-        top: 4px;
+        top: 5px;
         right: -3px;
         transform: scaleX(-1);
     }

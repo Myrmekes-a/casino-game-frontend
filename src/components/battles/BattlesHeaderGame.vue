@@ -220,7 +220,7 @@
         font-weight: 700;
         color: #6e95b6;
         background: #0b2d49;
-        clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 7px 100%, 0 75%, 0 25%);
+        clip-path: polygon(8px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 7px 100%, 0 75%, 0 25%);
         transition: color 0.3s ease;
     }
 

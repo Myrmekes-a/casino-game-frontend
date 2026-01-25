@@ -101,7 +101,7 @@
     .unbox-header-overview .overview-title {
         display: flex;
         align-items: center;
-        padding-bottom: 25px;
+        padding-bottom: 26px;
         font-size: 16px;
         font-weight: 800;
         color: #ffffff;

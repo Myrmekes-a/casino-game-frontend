@@ -186,7 +186,7 @@
 
         .admin-boxes-element .element-section {
             width: 100%!important;
-            margin-top: 9px;
+            margin-top: 8px;
         }
 
         .admin-boxes-element .element-section.section-user {
