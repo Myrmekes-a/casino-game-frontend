@@ -204,7 +204,7 @@
     }
 
     .unbox-reel .info-amount img {
-        width: 12px;
+        width: 13px;
         height: 11px;
         margin-right: 9px;
     }

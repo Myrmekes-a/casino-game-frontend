@@ -367,7 +367,7 @@
     }
 
     .modal-terms .element-title {
-        font-size: 24px;
+        font-size: 23px;
         font-weight: 800;
         color: #ffffff;
     }

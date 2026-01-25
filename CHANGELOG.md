@@ -335,3 +335,5 @@
 ## [2026-01-25] Update meta description for SEO
 
 ## [2026-01-25] Bump chart.js patch version
+
+## [2026-01-25] Refine README dev instructions
