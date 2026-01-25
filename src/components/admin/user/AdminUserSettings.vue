@@ -231,7 +231,7 @@
         width: 45px;
         height: 15px;
         position: relative;
-        filter: drop-shadow(0px 4px 25px rgba(15, 41, 63, 0.35));
+        filter: drop-shadow(0px 4px 24px rgba(15, 41, 63, 0.35));
     }
 
     .admin-user-settings .settings-element.element-toggle button:disabled {

@@ -357,3 +357,5 @@
 ## [2026-01-25] Update README configuration section
 
 ## [2026-01-25] Bump crypto-js patch version
+
+## [2026-01-25] Update index.html viewport meta

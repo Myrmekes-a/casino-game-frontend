@@ -137,7 +137,7 @@
 
     .modal-claim .claim-info {
         width: 100%;
-        margin-top: 12px;
+        margin-top: 13px;
         text-align: center;
         font-size: 16px;
         font-weight: 600;

@@ -98,7 +98,7 @@
         height: 111px;
         position: relative;
         margin-bottom: 14px;
-        padding: 13px;
+        padding: 12px;
         border-radius: 15px;
 
         background: radial-gradient(163.2% 163.2% at 50% -31.45%, rgba(0, 255, 194, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(256.23deg, #07263d 0%, #07243a 100%);
