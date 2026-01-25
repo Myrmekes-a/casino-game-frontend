@@ -161,7 +161,7 @@
         transform: translate(-50%, 0);
         font-size: 28px;
         font-weight: 800;
-        text-shadow: 0px 5px 35px rgba(0, 170, 109, 0.15), 0px 4px 15px rgba(0, 0, 0, 0.25);
+        text-shadow: 0px 5px 35px rgba(0, 170, 109, 0.15), 0px 5px 15px rgba(0, 0, 0, 0.25);
     }
 
     .home-links .games-title::before {
