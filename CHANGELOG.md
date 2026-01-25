@@ -331,3 +331,5 @@
 ## [2026-01-23] Update README with setup notes
 
 ## [2026-01-23] Bump axios patch version
+
+## [2026-01-25] Update meta description for SEO

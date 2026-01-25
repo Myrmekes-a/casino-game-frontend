@@ -74,7 +74,7 @@ fairGetTowersOutcome();
     }
 
     .fair-towers .towers-title {
-        font-size: 24px;
+        font-size: 25px;
         font-weight: 900;
         background: linear-gradient(250deg, #00ffc2 0%, #00aa6d 100%), #a6cae8;
         -webkit-background-clip: text;

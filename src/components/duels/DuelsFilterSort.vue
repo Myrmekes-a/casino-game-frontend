@@ -122,7 +122,7 @@
         flex-direction: column;
         align-items: center;
         margin-top: 7px;
-        border-radius: 10px 0 10px 10px;
+        border-radius: 10px 0 9px 10px;
         background: radial-gradient(163.2% 161.48% at 50% -31.12%, rgba(0, 255, 194, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(255deg, #07263d 0%, #07243a 100%);
         box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
     }

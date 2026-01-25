@@ -128,7 +128,7 @@
         padding: 6px;
         border-radius: 5px;
         background: #ebe9e6;
-        filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.15));
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.15));
         transition: all 0.3s;
     }
 

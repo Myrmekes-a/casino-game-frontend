@@ -180,7 +180,7 @@
     @media only screen and (max-width: 950px) {
 
         .home {
-            padding: 24px 10px 443px 11px;
+            padding: 24px 10px 443px 10px;
         }
 
     }

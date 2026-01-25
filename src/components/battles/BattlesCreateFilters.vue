@@ -94,7 +94,7 @@
     }
 
     .battles-create-filters .left-type button  {
-        height: 41px;
+        height: 42px;
         margin-right: 9px;
         padding: 0 23px;
         font-size: 14px;
