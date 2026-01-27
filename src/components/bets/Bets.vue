@@ -95,7 +95,7 @@
 
     .bets .bets-nav button.nav-link {
         position: relative;
-        margin-right: 39px;
+        margin-right: 38px;
         padding-bottom: 23px;
         font-size: 13px;
         font-weight: 700;

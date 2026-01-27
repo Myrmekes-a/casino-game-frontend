@@ -363,3 +363,5 @@
 ## [2026-01-27] Bump core-js patch version
 
 ## [2026-01-27] Refine README build instructions
+
+## [2026-01-27] Update package.json engine spec

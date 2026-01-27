@@ -75,7 +75,7 @@
         justify-content: space-between;
         align-items: center;
         margin-top: 7px;
-        padding: 17px 25px 18px 15px;
+        padding: 17px 25px 18px 14px;
         border-radius: 10px;
         background: linear-gradient(0deg, #031f34 0%, #031f34 100%), 
                     radial-gradient(80% 80% at 50% 50%, rgba(0, 255, 194, 0.05) 0%, rgba(0, 0, 0, 0) 100%);
