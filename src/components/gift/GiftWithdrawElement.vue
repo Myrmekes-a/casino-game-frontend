@@ -93,7 +93,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 20px 10px;
-        border-radius: 20px;
+        border-radius: 19px;
         background: linear-gradient(255deg, rgba(0, 255, 194, 0.02) 0%, rgba(0, 170, 109, 0.02) 100%), 
                     radial-gradient(80% 80% at 50% 50%, rgba(0, 255, 194, 0.05) 0%, rgba(0, 0, 0, 0) 100%);
         box-shadow: inset 0px 5px 50px rgba(0, 0, 0, 0.25);

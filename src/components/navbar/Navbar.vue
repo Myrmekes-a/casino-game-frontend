@@ -375,7 +375,7 @@
 
     nav#navbar a.link-rewards span {
         /* font-family: 'Rubik'; */
-        font-size: 14px;
+        font-size: 15px;
         font-weight: 900;
         background: linear-gradient(180deg, #ffffff 1.75%, rgba(108, 255, 211, 0.85) 35%, rgba(0, 255, 71, 0.55) 70.93%, #7bff90 95%);
         -webkit-background-clip: text;

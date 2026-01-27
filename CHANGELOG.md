@@ -379,3 +379,5 @@
 ## [2026-01-27] Tighten navbar icon spacing
 
 ## [2026-01-27] Adjust chat bubble padding
+
+## [2026-01-27] Fix modals overlay z-index
