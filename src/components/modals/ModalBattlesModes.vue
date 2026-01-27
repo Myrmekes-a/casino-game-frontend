@@ -90,7 +90,7 @@
     .modal-battles-modes .modes-info  {
         margin-top: 13px;
         text-align: center;
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 600;
         color: #bbbfd0;
     }

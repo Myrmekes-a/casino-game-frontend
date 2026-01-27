@@ -170,7 +170,7 @@
         height: 36px;
         position: relative;
         display: flex;
-        padding: 5px;
+        padding: 4px;
         border-radius: 5px;
         background-color: #041120;
     }
