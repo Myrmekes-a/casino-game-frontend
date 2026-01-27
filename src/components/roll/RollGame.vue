@@ -240,7 +240,7 @@
         justify-content: center;
         top: 50%;
         left: -25px;
-        right: -24px;
+        right: -25px;
         transform: translate(0, -50%);
         padding:  15px 0;
         overflow-x: hidden;

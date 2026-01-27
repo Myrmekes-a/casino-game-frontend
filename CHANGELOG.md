@@ -383,3 +383,5 @@
 ## [2026-01-27] Fix modals overlay z-index
 
 ## [2026-01-27] Improve banner image aspect ratio
+
+## [2026-01-27] Refactor footer grid columns
