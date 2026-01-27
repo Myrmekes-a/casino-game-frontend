@@ -452,7 +452,7 @@
         }
 
         .profile-header .header-id button {
-            margin-top: 5px;
+            margin-top: 6px;
         }
 
     }

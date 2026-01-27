@@ -251,7 +251,7 @@
         font-weight: 800;
         color: #ffffff;
         background: #fca311;
-        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 7px) 100%, 8px 100%, 0 75%, 0 25%);
+        clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 25%, 100% 75%, calc(100% - 8px) 100%, 8px 100%, 0 75%, 0 25%);
     }
 
     .rewards-rakeback .bottom-earnings {

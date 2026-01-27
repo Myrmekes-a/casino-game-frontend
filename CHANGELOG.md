@@ -359,3 +359,5 @@
 ## [2026-01-25] Bump crypto-js patch version
 
 ## [2026-01-25] Update index.html viewport meta
+
+## [2026-01-27] Bump core-js patch version

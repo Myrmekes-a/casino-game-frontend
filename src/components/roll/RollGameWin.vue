@@ -252,7 +252,7 @@
 
     .roll-game-win.win-mid .card-inner {
         background: radial-gradient(230% 105% at 50% 15%, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.46) 30%, rgba(0, 0, 0, 0.42) 65%, rgba(0, 0, 0, 0) 100%), linear-gradient(0deg, rgba(255, 183, 3, 0.75) -30%, rgba(255, 183, 3, 0.75) -16%, rgba(255, 183, 3, 0.43) 30%, rgba(0, 0, 0, 0) 100%), #062137;
-        box-shadow: inset 0px 0px 75px rgba(255, 168, 0, 0.25);
+        box-shadow: inset 0px 0px 76px rgba(255, 168, 0, 0.25);
     }
 
     .roll-game-win.win-low .card-inner {
