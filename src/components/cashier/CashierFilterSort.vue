@@ -96,7 +96,7 @@
 
     .modal-limiteds button.cashier-filter-sort .button-inner svg.toggle-icon,
     .modal-gift button.cashier-filter-sort .button-inner svg.toggle-icon {
-        width: 10px;
+        width: 11px;
     }
 
     button.cashier-filter-sort.sort-lowest .button-inner svg.toggle-icon {
