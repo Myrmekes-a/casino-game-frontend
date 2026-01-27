@@ -299,7 +299,7 @@
 
     aside#chat .chat-toggle button .button-inner svg {
         width: 19px;
-        height: 19px;
+        height: 18px;
         margin-top: 3px;
         fill: #ffffff;
     }

@@ -375,3 +375,5 @@
 ## [2026-01-27] Fix affiliates table column widths
 
 ## [2026-01-27] Update profile avatar border style
+
+## [2026-01-27] Tighten navbar icon spacing

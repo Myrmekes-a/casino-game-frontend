@@ -65,7 +65,7 @@
 
     .modal-faq .faq-header p  {
         margin-top: 9px;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 600;
         color: #bbbfd0;
     }
