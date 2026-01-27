@@ -165,7 +165,7 @@
     @media only screen and (max-width: 793px) {
 
         .modal-link {
-            width: calc(100vw - 20px);
+            width: calc(100vw - 21px);
             padding: 35px 10px 48px 10px;
         }
 

@@ -219,7 +219,7 @@
         }
 
         .battles-create-filters .filters-settings {
-            margin-top: 25px;
+            margin-top: 26px;
         }
 
     }

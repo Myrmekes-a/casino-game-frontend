@@ -53,7 +53,7 @@
         width: calc(25% - 22.5px);
         height: 230px;
         margin-right: 29px;
-        border-radius: 14px;
+        border-radius: 13px;
         background: radial-gradient(90% 60% at 50% 50%, #032b4f 0%, #001425 100%);
         border: 1px solid #123e62;
     }

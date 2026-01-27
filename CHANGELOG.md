@@ -371,3 +371,5 @@
 ## [2026-01-27] Adjust leaderboard row heights
 
 ## [2026-01-27] Improve rewards card border radius
+
+## [2026-01-27] Fix affiliates table column widths
