@@ -369,3 +369,5 @@
 ## [2026-01-27] Revise index.html meta description
 
 ## [2026-01-27] Adjust leaderboard row heights
+
+## [2026-01-27] Improve rewards card border radius
