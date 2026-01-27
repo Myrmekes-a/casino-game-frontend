@@ -173,7 +173,7 @@
     }
 
     .admin-cashier-element .element-section.section-user .content-rank {
-        margin-left: 12px;
+        margin-left: 13px;
         font-size: 12px;
         font-weight: 800;
         color: #ffffff;

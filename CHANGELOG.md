@@ -373,3 +373,5 @@
 ## [2026-01-27] Improve rewards card border radius
 
 ## [2026-01-27] Fix affiliates table column widths
+
+## [2026-01-27] Update profile avatar border style
