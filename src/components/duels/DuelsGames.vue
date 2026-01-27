@@ -115,7 +115,7 @@
 
     .duels-games .games-all {
         margin-top: 26px;
-        padding-bottom: 20px;
+        padding-bottom: 21px;
         border-bottom: 1px solid #0c324e;
     }
 

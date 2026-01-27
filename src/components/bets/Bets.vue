@@ -132,7 +132,7 @@
        width: 100%;
        height: 440px;
        position: relative;
-       border-radius: 16px;
+       border-radius: 17px;
        overflow: hidden;
    }
 

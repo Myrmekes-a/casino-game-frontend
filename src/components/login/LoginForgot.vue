@@ -202,7 +202,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 18px;
+        font-size: 17px;
         font-weight: 800;
         color: #ffffff;
         background: linear-gradient(250deg, #00ffc2 0%, #00aa6d 100%);
