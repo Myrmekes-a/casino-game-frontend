@@ -326,7 +326,7 @@
         width: calc(25% - 17px);
         height: 100%;
         padding: 1px;
-        border-radius: 8px;
+        border-radius: 9px;
         background: linear-gradient(180deg, rgba(11, 51, 84, 0) 0%, #123B5e 50%, rgba(11, 51, 84, 0) 100%);
     }
 

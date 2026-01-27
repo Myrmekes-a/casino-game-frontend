@@ -11,7 +11,7 @@
     "node": "18.18.0"
   },
   "dependencies": {
-    "@hcaptcha/vue-hcaptcha": "^0.3.2",
+    "@hcaptcha/vue-hcaptcha": "^0.3.3",
     "axios": "^0.27.1",
     "chart.js": "^3.9.0",
     "core-js": "^3.6.7",
