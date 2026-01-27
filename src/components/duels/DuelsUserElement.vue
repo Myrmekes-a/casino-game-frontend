@@ -300,7 +300,7 @@
         display: flex;
         align-items: center;
         margin-top: 6px;
-        font-size: 10px;
+        font-size: 11px;
         font-weight: 800;
     }
 

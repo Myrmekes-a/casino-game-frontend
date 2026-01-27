@@ -53,7 +53,7 @@
         display: flex;
         align-items: center;
         margin-top: 5px;
-        margin-right: 5px;
+        margin-right: 6px;
         padding: 0 15px;
         border-radius: 5px;
         font-size: 16px;

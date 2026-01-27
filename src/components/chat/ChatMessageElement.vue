@@ -409,7 +409,7 @@
 
     .chat-message-element .top-admin button.button-mute,
     .chat-message-element .top-admin button.button-remove {
-        width: 28px;
+        width: 27px;
         height: 28px;
         position: relative;
     }
