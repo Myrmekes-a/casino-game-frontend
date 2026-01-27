@@ -147,7 +147,7 @@
         display: none;
         position: absolute;
         top: -20px;
-        left: -10px;
+        left: -11px;
         z-index: 2;
     }
 

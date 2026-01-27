@@ -231,7 +231,7 @@
     }
 
     .roll-card .inner-amount img {
-        width: 14px;
+        width: 15px;
         height: 14px;
         margin-right: 5px;
     }

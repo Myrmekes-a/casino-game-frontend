@@ -124,7 +124,7 @@
     .unbox-item-element .inner-percentage {
         position: absolute;
         top: 9px;
-        right: 9px;
+        right: 10px;
         font-size: 13px;
         font-weight: 600;
         color: #5e768e;
