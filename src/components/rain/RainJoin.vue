@@ -276,7 +276,7 @@
     }
 
     .rain-join .site-avatar {
-        width: 34px;
+        width: 35px;
         height: 35px;
         position: absolute;
         top: 50%;

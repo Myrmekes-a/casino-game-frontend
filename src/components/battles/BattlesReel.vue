@@ -130,7 +130,7 @@
 
     .battles-reel .info-amount img {
         width: 18px;
-        height: 18px;
+        height: 19px;
         margin-right: 7px;
     }
 

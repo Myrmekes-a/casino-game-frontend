@@ -212,7 +212,7 @@
         position: relative;
         display: flex;
         align-items: center;
-        margin-top: 12px;
+        margin-top: 11px;
         padding: 0 52px 0 20px;
         border-radius: 8px;
         background: #071f2e;

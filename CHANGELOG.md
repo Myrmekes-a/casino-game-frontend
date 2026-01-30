@@ -399,3 +399,5 @@
 ## [2026-01-30] Update icon stroke width
 
 ## [2026-01-30] Adjust button border radius tokens
+
+## [2026-01-30] Fix input field focus outline

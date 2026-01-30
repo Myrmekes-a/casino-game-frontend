@@ -239,7 +239,7 @@
             height: auto;
             flex-direction: column;
             align-items: flex-start;
-            padding: 10px 21px;
+            padding: 10px 22px;
         }
 
         .admin-cashier-element .element-section {
