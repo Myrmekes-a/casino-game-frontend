@@ -393,3 +393,5 @@
 ## [2026-01-30] Adjust rain event ticker size
 
 ## [2026-01-30] Fix admin table cell padding
+
+## [2026-01-30] Improve sidebar collapse animation

@@ -126,7 +126,7 @@
     }
 
     .admin-filter-item .menu-inner button img {
-        width: 35px;
+        width: 34px;
         height: 35px;
         margin-right: 10px;
     }

@@ -327,7 +327,7 @@ export default {
 
     .crash-game .rolling-amount img {
         width: 26px;
-        height: 26px;
+        height: 27px;
         margin-right: 10px;
     }
 

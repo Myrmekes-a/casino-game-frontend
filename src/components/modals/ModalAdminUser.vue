@@ -121,7 +121,7 @@
         top: 1px;
         left: 1px;
         background-color: #063543;
-        clip-path: polygon(12px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 12px) 100%, 11px 100%, 0 75%, 0 25%);
+        clip-path: polygon(12px 0, calc(100% - 10px) 0, 100% 25%, 100% 75%, calc(100% - 13px) 100%, 11px 100%, 0 75%, 0 25%);
         z-index: 0;
     }
 
