@@ -35,7 +35,7 @@
 <style scoped>
     .blackjack-value {
         width: 36px;
-        height: 33px;
+        height: 34px;
         position: absolute;
         bottom: 0;
         left: 0;

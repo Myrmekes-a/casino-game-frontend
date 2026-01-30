@@ -397,3 +397,5 @@
 ## [2026-01-30] Improve sidebar collapse animation
 
 ## [2026-01-30] Update icon stroke width
+
+## [2026-01-30] Adjust button border radius tokens
