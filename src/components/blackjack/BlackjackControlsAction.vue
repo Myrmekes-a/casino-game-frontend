@@ -274,7 +274,7 @@
 
     .blackjack-controls-action .container-insurance button .button-inner svg,
     .blackjack-controls-action .container-normal button .button-inner svg {
-        margin-right: 7px;
+        margin-right: 6px;
         fill: #00ffc2;
     }
 

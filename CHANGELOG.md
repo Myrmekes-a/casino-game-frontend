@@ -407,3 +407,5 @@
 ## [2026-01-30] Refactor card hover scale factor
 
 ## [2026-01-30] Adjust progress bar height
+
+## [2026-01-30] Fix tooltip arrow offset

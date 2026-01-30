@@ -146,7 +146,7 @@
     }
 
     .modal-ban .ban-avatar {
-        margin-top: 36px;
+        margin-top: 37px;
     }
 
     .modal-ban .avatar-loading,
