@@ -114,7 +114,7 @@
         display: flex;
         align-items: center;
         padding: 0 14px;
-        border-radius: 5px;
+        border-radius: 4px;
         font-size: 13px;
         font-weight: 600;
         color: #8bacc8;

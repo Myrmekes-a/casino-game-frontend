@@ -139,7 +139,7 @@
     }
 
     .cashier-robux-element .element-section.section-state .section-content {
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 400;
     }
 

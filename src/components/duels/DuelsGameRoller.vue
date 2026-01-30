@@ -353,7 +353,7 @@
         }
 
         .duels-game-roller .won-info {
-            font-size: 15px;
+            font-size: 16px;
         }
 
         .duels-game-roller .won-amount img {

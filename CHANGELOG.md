@@ -387,3 +387,5 @@
 ## [2026-01-27] Refactor footer grid columns
 
 ## [2026-01-27] Fix notification badge position
+
+## [2026-01-30] Polish gift code input height
