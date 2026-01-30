@@ -71,7 +71,7 @@
     }
 
     .chat-emojis-dropdown button.button-toggle svg {
-        margin-right: 5px;
+        margin-right: 4px;
     }
 
     .chat-emojis-dropdown .dropdown-window {

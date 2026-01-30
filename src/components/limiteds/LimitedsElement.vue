@@ -190,7 +190,7 @@
         }
 
         button.limiteds-element:nth-child(4n) {
-            margin-right: 10px;
+            margin-right: 9px;
         }
 
         button.limiteds-element:nth-child(3n) {

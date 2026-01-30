@@ -395,3 +395,5 @@
 ## [2026-01-30] Fix admin table cell padding
 
 ## [2026-01-30] Improve sidebar collapse animation
+
+## [2026-01-30] Update icon stroke width
