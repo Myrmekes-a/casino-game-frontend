@@ -136,7 +136,7 @@ export default {
     }
 
     .admin-affiliates-element .element-section.section-user .content-username {
-        margin-left: 10px;
+        margin-left: 11px;
         font-size: 14px;
         font-weight: 400;
         color: #bbbfd0;

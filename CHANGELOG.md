@@ -403,3 +403,5 @@
 ## [2026-01-30] Fix input field focus outline
 
 ## [2026-01-30] Improve dropdown shadow depth
+
+## [2026-01-30] Refactor card hover scale factor

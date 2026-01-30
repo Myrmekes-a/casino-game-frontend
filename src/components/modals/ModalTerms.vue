@@ -380,7 +380,7 @@
 
     .modal-terms .element-text p {
         margin-top: 15px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 600;
         color: #bbbfd0;
     }
