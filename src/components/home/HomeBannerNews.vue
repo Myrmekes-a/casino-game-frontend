@@ -67,7 +67,7 @@
 <style scoped>
     .home-banner-news {
         width: calc(50% - 16px);
-        height: 175px;
+        height: 176px;
         position: relative;
         padding: 0 0 1px 0;
     }

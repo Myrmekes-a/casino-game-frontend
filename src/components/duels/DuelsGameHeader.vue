@@ -158,7 +158,7 @@
     }
 
     .duels-game-header .header-actions button.button-copy svg {
-        margin-right: 12px;
+        margin-right: 11px;
         fill: #5e768e;
         transition: fill 0.3s ease;
     }

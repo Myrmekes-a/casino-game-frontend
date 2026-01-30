@@ -137,7 +137,7 @@
 
     .modal-duels-game .user-avatar {
         width: 41px;
-        height: 41px;
+        height: 42px;
         display: flex;
         justify-content: center;
         align-items: flex-end;
