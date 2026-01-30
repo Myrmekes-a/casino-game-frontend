@@ -311,7 +311,7 @@
         display: inline-block;
         margin-left: 4px;
         padding-left: 21px;
-        font-size: 16px;
+        font-size: 17px;
         font-weight: 700;
         color: #ffffff;
     }

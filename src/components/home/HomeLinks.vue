@@ -266,7 +266,7 @@
     @media only screen and (max-width: 1050px) {
 
         .home-links .links-featured {
-            padding: 50px 15px 70px 15px;
+            padding: 50px 15px 71px 15px;
         }
 
         .home-links .links-games {

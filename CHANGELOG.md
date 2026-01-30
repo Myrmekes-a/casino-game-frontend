@@ -405,3 +405,5 @@
 ## [2026-01-30] Improve dropdown shadow depth
 
 ## [2026-01-30] Refactor card hover scale factor
+
+## [2026-01-30] Adjust progress bar height
