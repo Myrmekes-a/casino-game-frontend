@@ -401,3 +401,5 @@
 ## [2026-01-30] Adjust button border radius tokens
 
 ## [2026-01-30] Fix input field focus outline
+
+## [2026-01-30] Improve dropdown shadow depth

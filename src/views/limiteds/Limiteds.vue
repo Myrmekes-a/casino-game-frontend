@@ -143,7 +143,7 @@
     @media only screen and (max-width: 1300px) {
 
         .limiteds {
-            padding: 60px 10px;
+            padding: 61px 10px;
         }
 
         .limiteds .items-header {
