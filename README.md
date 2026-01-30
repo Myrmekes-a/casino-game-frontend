@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Notes
+
+Built with Vue 2, Vuex, and Vue Router. Run npm install then npm run dev.

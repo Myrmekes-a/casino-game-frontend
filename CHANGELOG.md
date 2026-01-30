@@ -391,3 +391,5 @@
 ## [2026-01-30] Polish gift code input height
 
 ## [2026-01-30] Adjust rain event ticker size
+
+## [2026-01-30] Fix admin table cell padding

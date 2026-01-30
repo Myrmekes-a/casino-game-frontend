@@ -320,7 +320,7 @@
         }
 
         .battles-box-element:nth-child(3n) {
-            margin-right: 9px;
+            margin-right: 8px;
         }
 
         .battles-box-element:nth-child(2n) {

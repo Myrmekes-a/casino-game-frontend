@@ -305,7 +305,7 @@
     .admin-user-settings .settings-element.element-select .element-input button {
         width: 60px;
         height: 30px;
-        filter: drop-shadow(0px 4px 25px rgba(1, 236, 174, 0.15)) drop-shadow(0px 5px 25px rgba(15, 41, 63, 0.35));
+        filter: drop-shadow(0px 4px 25px rgba(1, 236, 174, 0.15)) drop-shadow(0px 4px 25px rgba(15, 41, 63, 0.35));
     }
 
     .admin-user-settings .settings-element.element-button button .button-inner,

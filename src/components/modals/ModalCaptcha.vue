@@ -93,7 +93,7 @@
 
     .modal-captcha .captcha-title {
         text-align: center;
-        font-size: 32px;
+        font-size: 31px;
         font-weight: 900;
     }
 
